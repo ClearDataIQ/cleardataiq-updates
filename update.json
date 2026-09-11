@@ -1,0 +1,13 @@
+{
+  "manifest": {
+    "schema": 1,
+    "product": "ClearDataIQ Analyze",
+    "version": "1.1.0",
+    "download_url": "https://github.com/RashidAlmari/cleardataiq-updates/releases/download/v1.1.0/ClearDataIQ-Analyze-Update-1.1.0-Windows.zip",
+    "sha256": "85FCEC93578D8FE115DCD6303A6EF3C7867C90057BDE97724733A8CD1AB91105",
+    "published_at": "2026-09-11T01:27:01Z",
+    "notes_ar": "تصميم احترافي جديد وتحسين لوحة المؤشرات والواجهة العربية.",
+    "notes_en": "A complete professional interface and dashboard redesign."
+  },
+  "signature": "QBza7HYxxnXKcXjhB4YnlaOk0bo0BEB/wMJT+oxk/pJaBhe+7YbtR3bVSbSL95sRLYwkzPQcADv8A6LxktA4CA=="
+}
