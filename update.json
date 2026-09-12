@@ -4,12 +4,12 @@
     "product": "ClearDataIQ Analyze",
     "version": "1.1.3",
     "download_url": "https://github.com/RashidAlmari/cleardataiq-updates/releases/download/v1.1.3/ClearDataIQ-Analyze-Patch-1.1.3-Windows.zip",
-    "sha256": "3FD5999576AE515411F8FB55A37203435390740CC4F5572D23F13EC79E741081",
+    "sha256": "2EA46E364C2D2F40122B06AB57F67626A3D92E0FDA2A0C122EB4AE3F307D56B3",
     "package_type": "patch_zip",
-    "size_bytes": 39961637,
-    "published_at": "2026-09-12T16:40:41Z",
-    "notes_en": "Upgraded AI Assistance with a private 10-turn session conversation, per-request consent, clearer errors, key testing and replacement, and answer-number warnings. Restored the version, support, and update cards in the sidebar.",
-    "notes_ar": "تطوير مساعدة AI بمحادثة خاصة من 10 رسائل داخل الجلسة، وموافقة لكل طلب، ورسائل أخطاء أوضح، واختبار المفتاح واستبداله، وتحذير أرقام الإجابات. وإعادة بطاقات الإصدار والدعم والتحديث في الشريط الجانبي."
+    "size_bytes": 40075298,
+    "published_at": "2026-09-12T23:15:51Z",
+    "notes_ar": "- استبدال جميع ملفات التشغيل التي تغيّرت في التحديث وحذف ملفات الإصدارات القديمة والملفات الداخلية غير المخصصة للعميل.\n- إعادة كرت الإصدار بخط واضح وعريض داخل الشريط الجانبي.\n- إعادة كرت الدعم مع رابط مباشر للبريد الإلكتروني.\n- تغيير بريد الدعم إلى cleardataiq@gmail.com وإظهاره داخل الواجهة باسم Email.\n- إتاحة دليل الاستخدام من أول شاشة ودون الحاجة إلى اختيار نوع بيانات أو رفع ملف.\n- إبقاء قسم التحديثات وزر التحقق من التحديثات ظاهرين دائمًا.\n- تضمين إعداد Gumroad والتحديث تلقائيًا في كل بناء Windows مخصص للعملاء.\n- الحفاظ على التصميم الداكن والمحاذاة الصحيحة بالعربية والإنجليزية.\n- تطوير مساعدة AI إلى محادثة من 10 رسائل تحفظ في الذاكرة فقط، مع إرسال ملخص محسوب حديث في كل طلب.\n- إضافة التحقق قبل الحفظ، وعرض المفتاح بصيغة مقنّعة، واختبار المفتاح واستبداله، وترحيل الملف المشفّر السابق بأمان.\n- إضافة رسائل معالجة واضحة بالعربية والإنجليزية للمفتاح غير الصحيح وحد الاستخدام والحظر وفقد الاتصال والمهلة وأعطال الخدمة.\n- إعادة ضبط الموافقة بعد كل طلب، وتوضيح ما يُرسل وحجم الملخص التقريبي وعدد طلبات الجلسة.\n- التحذير عند احتواء الإجابة على أرقام غير موجودة في الملخص المحسوب؛ ولا تُرسل صفوف البيانات الخام مطلقًا.",
+    "notes_en": "- Replaces every changed runtime file during the update and removes old release notes and seller-only files from the customer folder.\n- Restores the prominent version card in the sidebar.\n- Restores the support card with a direct email link.\n- Changes support to cleardataiq@gmail.com and displays the in-app link as Email.\n- Makes the product guide available from the first screen without selecting a data type or uploading a file.\n- Keeps the updates section and update-check button visible.\n- Automatically includes the signed Gumroad and update configuration in customer Windows builds.\n- Preserves the dark interface and correct Arabic and English alignment.\n- Upgrades AI Assistance to a 10-turn, in-memory conversation with fresh calculated context on every request.\n- Adds verify-before-save, masked key display, Test key, Replace key, and safe migration from the earlier encrypted key file.\n- Adds bilingual recovery messages for invalid keys, quota, safety blocks, connectivity, timeouts, and service failures.\n- Resets consent after every request and shows exactly what is sent, approximate context size, and the session request count.\n- Warns when an AI answer contains figures that are absent from the calculated summary; raw dataset rows are never sent."
   },
-  "signature": "WnKdN3PSXEmkrzTH5ulCyLQpoYSVXJer4Gf1ul2jBQzS31LwHIBeftu2q/X28rxDNMTiPIItl5f3eO9QtO3yDQ=="
+  "signature": "EIBTky9QX2Tf94ZuBFh4D6Y76CCW0BE/7+GImoB5GjEAxLail9hLB32t2hSA7wW/ABK5D9eoKuPRXNHzh7whCg=="
 }
