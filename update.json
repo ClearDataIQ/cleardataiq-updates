@@ -2,12 +2,14 @@
   "manifest": {
     "schema": 1,
     "product": "ClearDataIQ Analyze",
-    "version": "1.1.0",
-    "download_url": "https://github.com/RashidAlmari/cleardataiq-updates/releases/download/v1.1.0/ClearDataIQ-Analyze-Update-1.1.0-Windows.zip",
-    "sha256": "85FCEC93578D8FE115DCD6303A6EF3C7867C90057BDE97724733A8CD1AB91105",
-    "published_at": "2026-09-11T01:27:01Z",
-    "notes_ar": "تصميم احترافي جديد وتحسين لوحة المؤشرات والواجهة العربية.",
-    "notes_en": "A complete professional interface and dashboard redesign."
+    "version": "1.1.2",
+    "download_url": "https://github.com/RashidAlmari/cleardataiq-updates/releases/download/v1.1.2/ClearDataIQ-Analyze-Patch-1.1.2-Windows.zip",
+    "sha256": "2C98045E9FB5DE667758656782DDFC2E65299C01D75E9BDB57245733BA32DA91",
+    "package_type": "patch_zip",
+    "size_bytes": 39949333,
+    "published_at": "2026-09-12T11:24:22Z",
+    "notes_ar": "إصلاح التحديث الذاتي، وتحسين الاسترجاع الآمن، وتضمين ملفات الواجهة والإعدادات في حزمة التحديث.",
+    "notes_en": "Repairs self-update, improves safe rollback, and includes interface and settings files in the patch."
   },
-  "signature": "QBza7HYxxnXKcXjhB4YnlaOk0bo0BEB/wMJT+oxk/pJaBhe+7YbtR3bVSbSL95sRLYwkzPQcADv8A6LxktA4CA=="
+  "signature": "5VdvjcDDZ0mQwi/LFSWVYXhBbkbF1BnsdVu96KF6BwatagoZQQXoc3beklm7all5V9z5mX5xl0hntSh3Mrp4CA=="
 }
