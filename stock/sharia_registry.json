@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-22T23:50:56.465811+00:00",
+  "updated_at": "2026-09-22T23:51:09.899148+00:00",
   "entries": {
     "FIRY": {
       "ticker": "FIRY",
@@ -1386,6 +1386,13 @@
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
       "checked_at": "2026-09-22T23:50:55.976880+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
+    },
+    "ZEO": {
+      "status": "COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-22T23:51:08.716392+00:00",
       "reason": "Owner manual classification",
       "confidence": 100
     }
