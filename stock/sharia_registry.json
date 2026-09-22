@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-22T23:52:45.213077+00:00",
+  "updated_at": "2026-09-22T23:52:51.982414+00:00",
   "entries": {
     "FIRY": {
       "ticker": "FIRY",
@@ -60,23 +60,11 @@
       }
     },
     "EAF": {
-      "ticker": "EAF",
-      "status": "UNKNOWN",
-      "source": "AUTO_FREE_SCREEN_V1",
-      "confidence": 70,
-      "reason": "Debt/market-cap 409.8% exceeds the configured 30% screen; full Sharia review required",
-      "checked_at": "2026-09-22T23:35:01.688933+00:00",
-      "rules": {
-        "debt_to_market_cap_max": 0.3,
-        "prohibited_income_max": 0.05
-      },
-      "metrics": {
-        "market_cap": 292493152.0,
-        "total_debt": 1198601984.0,
-        "debt_to_market_cap": 4.097880500121931,
-        "industry": "Electrical Equipment & Parts",
-        "sector": "Industrials"
-      }
+      "status": "NON_COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-22T23:52:51.471859+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
     },
     "SGRY": {
       "ticker": "SGRY",
