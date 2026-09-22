@@ -1,7 +1,25 @@
 {
-    "updated_at":  "2026-09-22T21:31:41.3144960Z",
-    "entries":  {
-
-                },
-    "version":  1
+  "version": 2,
+  "updated_at": "2026-09-22T23:35:01.314324+00:00",
+  "entries": {
+    "FIRY": {
+      "ticker": "FIRY",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 70,
+      "reason": "Debt/market-cap 63.3% exceeds the configured 30% screen; full Sharia review required",
+      "checked_at": "2026-09-22T23:34:58.915281+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 209440448.0,
+        "total_debt": 132589000.0,
+        "debt_to_market_cap": 0.6330630079630082,
+        "industry": "Electronic Gaming & Multimedia",
+        "sector": "Communication Services"
+      }
+    }
+  }
 }
