@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-22T23:52:00.918589+00:00",
+  "updated_at": "2026-09-22T23:52:15.179879+00:00",
   "entries": {
     "FIRY": {
       "ticker": "FIRY",
@@ -1414,6 +1414,13 @@
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
       "checked_at": "2026-09-22T23:52:00.411766+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
+    },
+    "RAIN": {
+      "status": "NON_COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-22T23:52:14.614630+00:00",
       "reason": "Owner manual classification",
       "confidence": 100
     }
