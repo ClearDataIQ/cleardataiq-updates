@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-22T23:52:51.982414+00:00",
+  "updated_at": "2026-09-22T23:53:03.547305+00:00",
   "entries": {
     "FIRY": {
       "ticker": "FIRY",
@@ -1430,6 +1430,13 @@
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
       "checked_at": "2026-09-22T23:52:44.746464+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
+    },
+    "CISS": {
+      "status": "NON_COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-22T23:53:02.904428+00:00",
       "reason": "Owner manual classification",
       "confidence": 100
     }
