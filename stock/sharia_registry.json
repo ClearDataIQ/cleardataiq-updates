@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-22T23:38:23.257125+00:00",
+  "updated_at": "2026-09-22T23:38:38.748196+00:00",
   "entries": {
     "FIRY": {
       "ticker": "FIRY",
@@ -346,6 +346,18 @@
         "debt_to_market_cap": 0.05193011183969579,
         "industry": "Staffing & Employment Services",
         "sector": "Industrials"
+      }
+    },
+    "INOD": {
+      "ticker": "INOD",
+      "status": "NON_COMPLIANT",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 99,
+      "reason": "Clearly prohibited primary activity detected: conventional bank",
+      "checked_at": "2026-09-22T23:38:36.645516+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
       }
     }
   }
