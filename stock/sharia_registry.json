@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-22T23:39:09.483716+00:00",
+  "updated_at": "2026-09-22T23:40:13.270353+00:00",
   "entries": {
     "FIRY": {
       "ticker": "FIRY",
@@ -1338,6 +1338,13 @@
       "source": "LEGACY_DEVICE_MIGRATION",
       "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "AV": {
+      "status": "COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-22T23:40:12.349946+00:00",
+      "reason": "Owner manual classification",
       "confidence": 100
     }
   }
