@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-22T23:36:14.723450+00:00",
+  "updated_at": "2026-09-22T23:37:42.596480+00:00",
   "entries": {
     "FIRY": {
       "ticker": "FIRY",
@@ -216,6 +216,18 @@
         "debt_to_market_cap": 1.1130259057431295,
         "industry": "Biotechnology",
         "sector": "Healthcare"
+      }
+    },
+    "BALY": {
+      "ticker": "BALY",
+      "status": "NON_COMPLIANT",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 99,
+      "reason": "Clearly prohibited primary activity detected: gambling",
+      "checked_at": "2026-09-22T23:37:39.974926+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
       }
     }
   }
