@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-22T23:38:05.265325+00:00",
+  "updated_at": "2026-09-22T23:38:10.599610+00:00",
   "entries": {
     "FIRY": {
       "ticker": "FIRY",
@@ -315,6 +315,25 @@
         "debt_to_market_cap": 0.007222189533634241,
         "industry": "Medical Devices",
         "sector": "Healthcare"
+      }
+    },
+    "IPDN": {
+      "ticker": "IPDN",
+      "status": "COMPLIANT",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 90,
+      "reason": "Permissible business screen passed; debt/market-cap 5.2% <= 30%",
+      "checked_at": "2026-09-22T23:38:09.281412+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 2596663.0,
+        "total_debt": 134845.0,
+        "debt_to_market_cap": 0.05193011183969579,
+        "industry": "Staffing & Employment Services",
+        "sector": "Industrials"
       }
     }
   }
