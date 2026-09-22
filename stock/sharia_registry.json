@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-22T23:37:42.596480+00:00",
+  "updated_at": "2026-09-22T23:38:01.801548+00:00",
   "entries": {
     "FIRY": {
       "ticker": "FIRY",
@@ -229,6 +229,74 @@
         "debt_to_market_cap_max": 0.3,
         "prohibited_income_max": 0.05
       }
+    },
+    "NBIZ": {
+      "ticker": "NBIZ",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-22T23:37:45.207405+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
+    },
+    "ONON": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "VICR": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "AMD": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "MRNA": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "GRML": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "COIN": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "HOOD": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
     }
   }
 }
