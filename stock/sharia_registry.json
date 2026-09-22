@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-22T23:56:30.518233+00:00",
+  "updated_at": "2026-09-22T23:56:46.880656+00:00",
   "entries": {
     "FIRY": {
       "ticker": "FIRY",
@@ -1500,6 +1500,13 @@
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
       "checked_at": "2026-09-22T23:56:30.003831+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
+    },
+    "RCT": {
+      "status": "COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-22T23:56:46.259756+00:00",
       "reason": "Owner manual classification",
       "confidence": 100
     }
