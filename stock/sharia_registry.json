@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-22T23:55:35.082432+00:00",
+  "updated_at": "2026-09-22T23:55:45.538590+00:00",
   "entries": {
     "FIRY": {
       "ticker": "FIRY",
@@ -1483,9 +1483,9 @@
       "confidence": 100
     },
     "HUBC": {
-      "status": "COMPLIANT",
+      "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "checked_at": "2026-09-22T23:55:34.390221+00:00",
+      "checked_at": "2026-09-22T23:55:45.045875+00:00",
       "reason": "Owner manual classification",
       "confidence": 100
     }
