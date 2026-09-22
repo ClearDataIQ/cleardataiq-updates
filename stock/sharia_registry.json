@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-22T23:35:03.634031+00:00",
+  "updated_at": "2026-09-22T23:35:45.409704+00:00",
   "entries": {
     "FIRY": {
       "status": "UNKNOWN",
@@ -102,6 +102,63 @@
         "debt_to_market_cap": 0.024772664831028128,
         "industry": "Software - Application",
         "sector": "Technology"
+      }
+    },
+    "DNA": {
+      "ticker": "DNA",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 70,
+      "reason": "Debt/market-cap 64.0% exceeds the configured 30% screen; full Sharia review required",
+      "checked_at": "2026-09-22T23:35:04.093275+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 630978432.0,
+        "total_debt": 404112992.0,
+        "debt_to_market_cap": 0.6404545250763817,
+        "industry": "Biotechnology",
+        "sector": "Healthcare"
+      }
+    },
+    "TNGX": {
+      "ticker": "TNGX",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-22T23:35:42.857680+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 4304622592.0,
+        "total_debt": 31992000.0,
+        "debt_to_market_cap": 0.007432010429777533,
+        "industry": "Biotechnology",
+        "sector": "Healthcare"
+      }
+    },
+    "TLSI": {
+      "ticker": "TLSI",
+      "status": "COMPLIANT",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 90,
+      "reason": "Permissible business screen passed; debt/market-cap 11.3% <= 30%",
+      "checked_at": "2026-09-22T23:35:44.894012+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 303562752.0,
+        "total_debt": 34426000.0,
+        "debt_to_market_cap": 0.11340653546321783,
+        "industry": "Medical Devices",
+        "sector": "Healthcare"
       }
     }
   }
