@@ -1,24 +1,107 @@
 {
   "version": 2,
-  "updated_at": "2026-09-22T23:35:01.314324+00:00",
+  "updated_at": "2026-09-22T23:35:03.634031+00:00",
   "entries": {
     "FIRY": {
-      "ticker": "FIRY",
       "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 70,
       "reason": "Debt/market-cap 63.3% exceeds the configured 30% screen; full Sharia review required",
-      "checked_at": "2026-09-22T23:34:58.915281+00:00",
+      "checked_at": "2026-09-22T23:34:58.915281+00:00"
+    },
+    "SKHA": {
+      "ticker": "SKHA",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-22T23:34:58.914580+00:00",
       "rules": {
         "debt_to_market_cap_max": 0.3,
         "prohibited_income_max": 0.05
       },
       "metrics": {
-        "market_cap": 209440448.0,
-        "total_debt": 132589000.0,
-        "debt_to_market_cap": 0.6330630079630082,
-        "industry": "Electronic Gaming & Multimedia",
-        "sector": "Communication Services"
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
+    },
+    "OMER": {
+      "ticker": "OMER",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-22T23:35:00.941772+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 1523774080.0,
+        "total_debt": 296870016.0,
+        "debt_to_market_cap": 0.19482547964065644,
+        "industry": "Biotechnology",
+        "sector": "Healthcare"
+      }
+    },
+    "EAF": {
+      "ticker": "EAF",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 70,
+      "reason": "Debt/market-cap 409.8% exceeds the configured 30% screen; full Sharia review required",
+      "checked_at": "2026-09-22T23:35:01.688933+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 292493152.0,
+        "total_debt": 1198601984.0,
+        "debt_to_market_cap": 4.097880500121931,
+        "industry": "Electrical Equipment & Parts",
+        "sector": "Industrials"
+      }
+    },
+    "SGRY": {
+      "ticker": "SGRY",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 70,
+      "reason": "Debt/market-cap 196.6% exceeds the configured 30% screen; full Sharia review required",
+      "checked_at": "2026-09-22T23:35:02.195411+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 2068508416.0,
+        "total_debt": 4067000064.0,
+        "debt_to_market_cap": 1.9661510838155565,
+        "industry": "Medical Care Facilities",
+        "sector": "Healthcare"
+      }
+    },
+    "RTB": {
+      "ticker": "RTB",
+      "status": "COMPLIANT",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 90,
+      "reason": "Permissible business screen passed; debt/market-cap 2.5% <= 30%",
+      "checked_at": "2026-09-22T23:35:02.700787+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 138136128.0,
+        "total_debt": 3422000.0,
+        "debt_to_market_cap": 0.024772664831028128,
+        "industry": "Software - Application",
+        "sector": "Technology"
       }
     }
   }
