@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-22T23:38:38.748196+00:00",
+  "updated_at": "2026-09-22T23:39:09.483716+00:00",
   "entries": {
     "FIRY": {
       "ticker": "FIRY",
@@ -359,6 +359,986 @@
         "debt_to_market_cap_max": 0.3,
         "prohibited_income_max": 0.05
       }
+    },
+    "INTW": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "STI": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "DSP": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "MU": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "META": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "INTC": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "QCOM": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "CRML": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "CRMX": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "CRMU": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "RBLU": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "ARM": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "AMDL": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "RKLX": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "ALOY": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "GLND": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "AAPL": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "AMZN": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "GOOG": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "MSFT": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "NVDA": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "SPCX": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "TSLA": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "MSTR": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "GOOGL": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "RIOT": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "BTCUSD": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "CLSK": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "ETHUSD": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "MARA": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "SOLUSD": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "XRPUSD": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "CRM": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "LYV": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "WBD": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "FSLY": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "BNC": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "BITX": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "BITU": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "CONL": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "QCMU": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "SUIL": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "AXTU": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "ARMG": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "HBR": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "OUSL": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "BTCU": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "MST": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "AZO": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "CHRD": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "FPS": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "GDX": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "MTDR": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "MHK": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "JETS": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "HPQ": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "FDX": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "FDN": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "COST": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "COP": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "AKAM": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "DOCN": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "OIH": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "OVV": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "PR": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "RMBS": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "SMMT": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "SKHY": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "PSKY": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "SNDK": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "UPS": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "XOM": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "IWM": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "VOO": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "XOP": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "DIA": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "SMH": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "XLE": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "XLK": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "XLC": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "XLI": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "XLP": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "XLU": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "XLY": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "BMNR": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "SNXX": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "YSS": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "PRTH": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "ARMW": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "MSTX": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "MRNX": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "MSTU": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "LABX": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "BMNU": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "GSUI": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "FBL": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "QCML": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "USGG": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "INT": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "AXTX": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "METU": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "BYAH": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "JXG": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "MSC": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "LVWR": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "JWEL": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "EJH": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "AMBO": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "VEEE": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "BSX": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "HIMS": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "NVO": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "RGEN": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "UNH": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "PRME": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "NTLA": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "CLOV": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "AVBP": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "NOK": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "SUPX": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "GRAL": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "NUAI": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "GME": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "DASH": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "UBER": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "DIS": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "SOXL": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "USO": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "CCJ": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "ALM": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "ALB": {
+      "status": "COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "FCX": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "MP": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "REMX": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "VST": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "SNDC": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "SNDU": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "MAZE": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "LITZ": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
+    },
+    "SNDG": {
+      "status": "NON_COMPLIANT",
+      "source": "LEGACY_DEVICE_MIGRATION",
+      "checked_at": null,
+      "reason": "Recovered from legacy device localStorage",
+      "confidence": 100
     }
   }
 }
