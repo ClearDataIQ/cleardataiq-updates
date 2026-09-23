@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-23T00:31:45.598769+00:00",
+  "updated_at": "2026-09-23T00:32:44.644766+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -1591,6 +1591,25 @@
         "debt_to_market_cap": 0.04291063684112415,
         "industry": "Software - Application",
         "sector": "Technology"
+      }
+    },
+    "AEHL": {
+      "ticker": "AEHL",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 70,
+      "reason": "Debt/market-cap 40.3% exceeds the configured 30% screen; full Sharia review required",
+      "checked_at": "2026-09-23T00:32:43.026946+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 8769894.0,
+        "total_debt": 3533000.0,
+        "debt_to_market_cap": 0.4028554963150068,
+        "industry": "Building Products & Equipment",
+        "sector": "Industrials"
       }
     }
   }
