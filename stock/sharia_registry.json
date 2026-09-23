@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-23T00:42:46.135704+00:00",
+  "updated_at": "2026-09-23T00:42:57.601922+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -1815,6 +1815,13 @@
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
       "checked_at": "2026-09-23T00:42:44.883298+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
+    },
+    "DCOY": {
+      "status": "COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-23T00:42:56.543637+00:00",
       "reason": "Owner manual classification",
       "confidence": 100
     }
