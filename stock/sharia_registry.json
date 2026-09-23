@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-23T00:28:12.302429+00:00",
+  "updated_at": "2026-09-23T00:28:17.684213+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -95,23 +95,11 @@
       "confidence": 100
     },
     "TLSI": {
-      "ticker": "TLSI",
       "status": "COMPLIANT",
-      "source": "AUTO_FREE_SCREEN_V1",
-      "confidence": 90,
-      "reason": "Permissible business screen passed; debt/market-cap 11.3% <= 30%",
-      "checked_at": "2026-09-22T23:38:21.792299+00:00",
-      "rules": {
-        "debt_to_market_cap_max": 0.3,
-        "prohibited_income_max": 0.05
-      },
-      "metrics": {
-        "market_cap": 303562752.0,
-        "total_debt": 34426000.0,
-        "debt_to_market_cap": 0.11340653546321783,
-        "industry": "Medical Devices",
-        "sector": "Healthcare"
-      }
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-23T00:28:17.183024+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
     },
     "BNR": {
       "ticker": "BNR",
