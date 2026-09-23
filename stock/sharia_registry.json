@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-23T00:58:53.705320+00:00",
+  "updated_at": "2026-09-23T00:59:05.450101+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -2232,6 +2232,13 @@
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
       "checked_at": "2026-09-23T00:58:53.170398+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
+    },
+    "LBGJ": {
+      "status": "NON_COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-23T00:59:03.944245+00:00",
       "reason": "Owner manual classification",
       "confidence": 100
     }
