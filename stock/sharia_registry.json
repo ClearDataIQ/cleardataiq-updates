@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-23T00:59:23.452166+00:00",
+  "updated_at": "2026-09-23T00:59:33.134611+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -2253,6 +2253,13 @@
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
       "checked_at": "2026-09-23T00:59:22.431994+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
+    },
+    "WXM": {
+      "status": "NON_COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-23T00:59:32.569984+00:00",
       "reason": "Owner manual classification",
       "confidence": 100
     }
