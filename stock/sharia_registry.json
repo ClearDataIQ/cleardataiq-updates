@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-23T00:30:53.588919+00:00",
+  "updated_at": "2026-09-23T00:31:45.598769+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -1572,6 +1572,25 @@
         "debt_to_market_cap": 0.02627734168500079,
         "industry": "Diagnostics & Research",
         "sector": "Healthcare"
+      }
+    },
+    "SECZ": {
+      "ticker": "SECZ",
+      "status": "COMPLIANT",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 90,
+      "reason": "Permissible business screen passed; debt/market-cap 4.3% <= 30%",
+      "checked_at": "2026-09-23T00:31:43.584655+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 2122453888.0,
+        "total_debt": 91075848.0,
+        "debt_to_market_cap": 0.04291063684112415,
+        "industry": "Software - Application",
+        "sector": "Technology"
       }
     }
   }
