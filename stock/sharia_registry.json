@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-23T00:48:46.412019+00:00",
+  "updated_at": "2026-09-23T00:49:29.284811+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -665,9 +665,9 @@
     },
     "SNDK": {
       "status": "COMPLIANT",
-      "source": "LEGACY_DEVICE_MIGRATION",
-      "checked_at": null,
-      "reason": "Recovered from legacy device localStorage",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-23T00:49:28.715431+00:00",
+      "reason": "Owner manual classification",
       "confidence": 100
     },
     "UPS": {
