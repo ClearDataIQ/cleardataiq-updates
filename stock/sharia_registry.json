@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-23T00:44:39.748300+00:00",
+  "updated_at": "2026-09-23T00:44:48.628024+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -1845,6 +1845,13 @@
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
       "checked_at": "2026-09-23T00:44:39.139304+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
+    },
+    "MDIA": {
+      "status": "NON_COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-23T00:44:48.035004+00:00",
       "reason": "Owner manual classification",
       "confidence": 100
     }
