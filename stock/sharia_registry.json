@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-23T00:27:00.725168+00:00",
+  "updated_at": "2026-09-23T00:27:16.173271+00:00",
   "entries": {
     "FIRY": {
       "ticker": "FIRY",
@@ -263,23 +263,11 @@
       "confidence": 100
     },
     "BFLY": {
-      "ticker": "BFLY",
-      "status": "COMPLIANT",
-      "source": "AUTO_FREE_SCREEN_V1",
-      "confidence": 90,
-      "reason": "Permissible business screen passed; debt/market-cap 0.7% <= 30%",
-      "checked_at": "2026-09-22T23:38:04.031618+00:00",
-      "rules": {
-        "debt_to_market_cap_max": 0.3,
-        "prohibited_income_max": 0.05
-      },
-      "metrics": {
-        "market_cap": 2644211968.0,
-        "total_debt": 19097000.0,
-        "debt_to_market_cap": 0.007222189533634241,
-        "industry": "Medical Devices",
-        "sector": "Healthcare"
-      }
+      "status": "NON_COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-23T00:27:14.978025+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
     },
     "IPDN": {
       "ticker": "IPDN",
