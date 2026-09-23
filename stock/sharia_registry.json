@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-23T00:53:25.848020+00:00",
+  "updated_at": "2026-09-23T00:53:34.249080+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -2099,6 +2099,13 @@
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
       "checked_at": "2026-09-23T00:53:25.202517+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
+    },
+    "ZJYL": {
+      "status": "NON_COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-23T00:53:33.739764+00:00",
       "reason": "Owner manual classification",
       "confidence": 100
     }
