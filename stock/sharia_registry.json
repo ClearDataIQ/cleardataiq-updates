@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-23T00:33:57.082871+00:00",
+  "updated_at": "2026-09-23T00:35:57.484411+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -1629,6 +1629,25 @@
         "debt_to_market_cap": 0.019904173400902198,
         "industry": "Semiconductor Equipment & Materials",
         "sector": "Technology"
+      }
+    },
+    "BIAF": {
+      "ticker": "BIAF",
+      "status": "COMPLIANT",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 85,
+      "reason": "Permissible business screen passed; debt/market-cap 27.9% <= 30%",
+      "checked_at": "2026-09-23T00:35:56.140976+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 5139296.0,
+        "total_debt": 1435005.0,
+        "debt_to_market_cap": 0.2792220957889952,
+        "industry": "Diagnostics & Research",
+        "sector": "Healthcare"
       }
     }
   }
