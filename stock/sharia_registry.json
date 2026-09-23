@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-23T00:57:18.937057+00:00",
+  "updated_at": "2026-09-23T00:58:26.177086+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -2211,6 +2211,13 @@
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
       "checked_at": "2026-09-23T00:57:18.091129+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
+    },
+    "NDRA": {
+      "status": "COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-23T00:58:25.589982+00:00",
       "reason": "Owner manual classification",
       "confidence": 100
     }
