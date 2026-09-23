@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-23T00:53:53.617639+00:00",
+  "updated_at": "2026-09-23T00:54:04.258033+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -2120,6 +2120,13 @@
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
       "checked_at": "2026-09-23T00:53:53.018627+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
+    },
+    "CJMB": {
+      "status": "COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-23T00:54:03.146014+00:00",
       "reason": "Owner manual classification",
       "confidence": 100
     }
