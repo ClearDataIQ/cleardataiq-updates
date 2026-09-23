@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-23T00:30:25.480353+00:00",
+  "updated_at": "2026-09-23T00:30:53.588919+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -1554,6 +1554,25 @@
       "checked_at": "2026-09-23T00:30:24.267347+00:00",
       "reason": "Owner manual classification",
       "confidence": 100
+    },
+    "BLLN": {
+      "ticker": "BLLN",
+      "status": "COMPLIANT",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 90,
+      "reason": "Permissible business screen passed; debt/market-cap 2.6% <= 30%",
+      "checked_at": "2026-09-23T00:30:51.192273+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 5476999680.0,
+        "total_debt": 143920992.0,
+        "debt_to_market_cap": 0.02627734168500079,
+        "industry": "Diagnostics & Research",
+        "sector": "Healthcare"
+      }
     }
   }
 }
