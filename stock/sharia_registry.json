@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-23T00:28:36.498618+00:00",
+  "updated_at": "2026-09-23T00:28:43.721700+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -38,23 +38,11 @@
       "confidence": 100
     },
     "RTB": {
-      "ticker": "RTB",
       "status": "COMPLIANT",
-      "source": "AUTO_FREE_SCREEN_V1",
-      "confidence": 90,
-      "reason": "Permissible business screen passed; debt/market-cap 2.5% <= 30%",
-      "checked_at": "2026-09-22T23:35:02.700787+00:00",
-      "rules": {
-        "debt_to_market_cap_max": 0.3,
-        "prohibited_income_max": 0.05
-      },
-      "metrics": {
-        "market_cap": 138136128.0,
-        "total_debt": 3422000.0,
-        "debt_to_market_cap": 0.024772664831028128,
-        "industry": "Software - Application",
-        "sector": "Technology"
-      }
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-23T00:28:43.019281+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
     },
     "DNA": {
       "ticker": "DNA",
