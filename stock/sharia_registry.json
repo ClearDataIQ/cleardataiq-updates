@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-24T20:07:41.802116+00:00",
+  "updated_at": "2026-09-24T20:07:53.933625+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -615,10 +615,10 @@
       "confidence": 100
     },
     "OIH": {
-      "status": "COMPLIANT",
-      "source": "LEGACY_DEVICE_MIGRATION",
-      "checked_at": null,
-      "reason": "Recovered from legacy device localStorage",
+      "status": "NON_COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-24T20:07:52.980189+00:00",
+      "reason": "Owner manual classification",
       "confidence": 100
     },
     "OVV": {
