@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-24T20:06:52.877821+00:00",
+  "updated_at": "2026-09-24T20:07:02.969463+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -3090,6 +3090,13 @@
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
       "checked_at": "2026-09-24T20:06:44.061574+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
+    },
+    "ENPH": {
+      "status": "COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-24T20:07:01.799014+00:00",
       "reason": "Owner manual classification",
       "confidence": 100
     }
