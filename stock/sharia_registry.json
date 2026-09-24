@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-24T14:26:10.123847+00:00",
+  "updated_at": "2026-09-24T14:26:25.117715+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -2781,6 +2781,13 @@
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
       "checked_at": "2026-09-24T14:26:09.224012+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
+    },
+    "DBGI": {
+      "status": "NON_COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-24T14:26:24.004100+00:00",
       "reason": "Owner manual classification",
       "confidence": 100
     }
