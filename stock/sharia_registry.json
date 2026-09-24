@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-24T20:11:01.430828+00:00",
+  "updated_at": "2026-09-24T20:11:18.126623+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -3180,7 +3180,14 @@
     "SGOV": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "checked_at": "2026-09-24T20:10:58.832749+00:00",
+      "checked_at": "2026-09-24T20:11:08.117253+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
+    },
+    "TLT": {
+      "status": "NON_COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-24T20:11:08.998961+00:00",
       "reason": "Owner manual classification",
       "confidence": 100
     }
