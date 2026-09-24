@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-24T18:42:23.999030+00:00",
+  "updated_at": "2026-09-24T18:42:39.070723+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -2962,23 +2962,11 @@
       "confidence": 100
     },
     "NTRB": {
-      "ticker": "NTRB",
-      "status": "UNKNOWN",
-      "source": "AUTO_FREE_SCREEN_V1",
-      "confidence": 50,
-      "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-24T18:41:33.370647+00:00",
-      "rules": {
-        "debt_to_market_cap_max": 0.3,
-        "prohibited_income_max": 0.05
-      },
-      "metrics": {
-        "market_cap": 105328992.0,
-        "total_debt": 219719.0,
-        "debt_to_market_cap": 0.002086025849369184,
-        "industry": "Biotechnology",
-        "sector": "Healthcare"
-      }
+      "status": "COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-24T18:42:38.235826+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
     },
     "PLU": {
       "ticker": "PLU",
