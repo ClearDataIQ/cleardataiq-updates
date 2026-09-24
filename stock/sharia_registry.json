@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-24T14:24:28.202989+00:00",
+  "updated_at": "2026-09-24T14:24:41.717074+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -2725,6 +2725,13 @@
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
       "checked_at": "2026-09-24T14:24:27.597389+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
+    },
+    "MCD": {
+      "status": "NON_COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-24T14:24:41.091955+00:00",
       "reason": "Owner manual classification",
       "confidence": 100
     }
