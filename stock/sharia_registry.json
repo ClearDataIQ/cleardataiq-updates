@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-24T14:22:36.529145+00:00",
+  "updated_at": "2026-09-24T14:23:03.880172+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -2702,6 +2702,13 @@
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
       "checked_at": "2026-09-24T14:22:34.681892+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
+    },
+    "BENF": {
+      "status": "NON_COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-24T14:23:03.232440+00:00",
       "reason": "Owner manual classification",
       "confidence": 100
     }
