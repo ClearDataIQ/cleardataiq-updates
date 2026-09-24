@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-24T20:08:08.695174+00:00",
+  "updated_at": "2026-09-24T20:08:15.985106+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -2718,9 +2718,9 @@
       "confidence": 100
     },
     "SNX": {
-      "status": "COMPLIANT",
+      "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "checked_at": "2026-09-24T14:26:09.224012+00:00",
+      "checked_at": "2026-09-24T20:08:15.229343+00:00",
       "reason": "Owner manual classification",
       "confidence": 100
     },
