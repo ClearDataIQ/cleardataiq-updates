@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-24T15:24:50.201783+00:00",
+  "updated_at": "2026-09-24T15:25:48.369506+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -2609,23 +2609,11 @@
       "confidence": 100
     },
     "NBIG": {
-      "ticker": "NBIG",
-      "status": "UNKNOWN",
-      "source": "AUTO_FREE_SCREEN_V1",
-      "confidence": 50,
-      "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-24T14:20:37.934544+00:00",
-      "rules": {
-        "debt_to_market_cap_max": 0.3,
-        "prohibited_income_max": 0.05
-      },
-      "metrics": {
-        "market_cap": null,
-        "total_debt": null,
-        "debt_to_market_cap": null,
-        "industry": null,
-        "sector": null
-      }
+      "status": "NON_COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-24T15:25:47.632533+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
     },
     "QMCO": {
       "status": "NON_COMPLIANT",
