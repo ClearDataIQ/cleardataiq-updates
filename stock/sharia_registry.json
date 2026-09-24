@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-24T20:08:39.636197+00:00",
+  "updated_at": "2026-09-24T20:08:49.380304+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -727,10 +727,10 @@
       "confidence": 100
     },
     "XLK": {
-      "status": "COMPLIANT",
-      "source": "LEGACY_DEVICE_MIGRATION",
-      "checked_at": null,
-      "reason": "Recovered from legacy device localStorage",
+      "status": "NON_COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-24T20:08:48.372456+00:00",
+      "reason": "Owner manual classification",
       "confidence": 100
     },
     "XLC": {
