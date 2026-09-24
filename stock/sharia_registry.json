@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-24T14:27:14.242707+00:00",
+  "updated_at": "2026-09-24T15:24:50.201783+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -2827,9 +2827,47 @@
     "SPHL": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "checked_at": "2026-09-24T14:27:07.819331+00:00",
+      "checked_at": "2026-09-24T14:27:18.470135+00:00",
       "reason": "Owner manual classification",
       "confidence": 100
+    },
+    "ORCZ": {
+      "ticker": "ORCZ",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-24T15:23:55.934921+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
+    },
+    "GDDY": {
+      "ticker": "GDDY",
+      "status": "COMPLIANT",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 85,
+      "reason": "Permissible business screen passed; debt/market-cap 29.9% <= 30%",
+      "checked_at": "2026-09-24T15:24:46.557606+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 12837011456.0,
+        "total_debt": 3841400064.0,
+        "debt_to_market_cap": 0.2992441096720012,
+        "industry": "Software - Infrastructure",
+        "sector": "Technology"
+      }
     }
   }
 }
