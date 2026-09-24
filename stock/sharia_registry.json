@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-24T14:18:25.426913+00:00",
+  "updated_at": "2026-09-24T14:18:50.346488+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -2561,6 +2561,13 @@
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
       "checked_at": "2026-09-24T14:18:24.447121+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
+    },
+    "TGS": {
+      "status": "NON_COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-24T14:18:49.699102+00:00",
       "reason": "Owner manual classification",
       "confidence": 100
     }
