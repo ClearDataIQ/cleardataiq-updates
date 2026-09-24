@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-24T01:31:38.251454+00:00",
+  "updated_at": "2026-09-24T14:13:15.991340+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -2424,6 +2424,25 @@
       "confidence": 50,
       "reason": "Business or financial data is not strong enough for automatic approval",
       "checked_at": "2026-09-23T01:17:34.343643+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
+    },
+    "BEZ": {
+      "ticker": "BEZ",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-24T14:13:12.547074+00:00",
       "rules": {
         "debt_to_market_cap_max": 0.3,
         "prohibited_income_max": 0.05
