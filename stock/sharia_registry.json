@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-24T20:15:01.490707+00:00",
+  "updated_at": "2026-09-24T20:15:13.527665+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -3328,6 +3328,13 @@
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
       "checked_at": "2026-09-24T20:15:00.317867+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
+    },
+    "RTX": {
+      "status": "COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-24T20:15:12.105620+00:00",
       "reason": "Owner manual classification",
       "confidence": 100
     }
