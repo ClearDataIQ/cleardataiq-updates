@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-24T20:15:28.932886+00:00",
+  "updated_at": "2026-09-24T20:15:38.668739+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -3349,6 +3349,13 @@
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
       "checked_at": "2026-09-24T20:15:27.975220+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
+    },
+    "XLRE": {
+      "status": "NON_COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-24T20:15:37.706841+00:00",
       "reason": "Owner manual classification",
       "confidence": 100
     }
