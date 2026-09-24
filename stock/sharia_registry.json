@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-24T23:14:58.907286+00:00",
+  "updated_at": "2026-09-24T23:15:13.137422+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -2810,23 +2810,11 @@
       }
     },
     "BOIL": {
-      "ticker": "BOIL",
-      "status": "UNKNOWN",
-      "source": "AUTO_FREE_SCREEN_V1",
-      "confidence": 50,
-      "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-24T15:37:06.390886+00:00",
-      "rules": {
-        "debt_to_market_cap_max": 0.3,
-        "prohibited_income_max": 0.05
-      },
-      "metrics": {
-        "market_cap": null,
-        "total_debt": null,
-        "debt_to_market_cap": null,
-        "industry": null,
-        "sector": null
-      }
+      "status": "NON_COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-24T23:15:12.440706+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
     },
     "TJGC": {
       "status": "NON_COMPLIANT",
