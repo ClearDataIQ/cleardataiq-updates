@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-24T15:26:31.088465+00:00",
+  "updated_at": "2026-09-24T18:41:13.078050+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -1518,23 +1518,11 @@
       "confidence": 100
     },
     "USDE": {
-      "ticker": "USDE",
       "status": "COMPLIANT",
-      "source": "AUTO_FREE_SCREEN_V1",
-      "confidence": 90,
-      "reason": "Permissible business screen passed; debt/market-cap 2.0% <= 30%",
-      "checked_at": "2026-09-24T14:19:38.098704+00:00",
-      "rules": {
-        "debt_to_market_cap_max": 0.3,
-        "prohibited_income_max": 0.05
-      },
-      "metrics": {
-        "market_cap": 358277984.0,
-        "total_debt": 6998121.0,
-        "debt_to_market_cap": 0.019532657077806936,
-        "industry": "Capital Markets",
-        "sector": "Financial Services"
-      }
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-24T18:41:12.112194+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
     },
     "ABSI": {
       "status": "NON_COMPLIANT",
@@ -2829,6 +2817,63 @@
         "market_cap": 12837011456.0,
         "total_debt": 3841400064.0,
         "debt_to_market_cap": 0.2992441096720012,
+        "industry": "Software - Infrastructure",
+        "sector": "Technology"
+      }
+    },
+    "BOIL": {
+      "ticker": "BOIL",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-24T15:37:06.390886+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
+    },
+    "TJGC": {
+      "ticker": "TJGC",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-24T15:49:06.370414+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 265832608.0,
+        "total_debt": 21748604.0,
+        "debt_to_market_cap": 0.08181315363689318,
+        "industry": "Advertising Agencies",
+        "sector": "Communication Services"
+      }
+    },
+    "AVX": {
+      "ticker": "AVX",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 70,
+      "reason": "Debt/market-cap 33.0% exceeds the configured 30% screen; full Sharia review required",
+      "checked_at": "2026-09-24T18:40:30.363011+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 40019840.0,
+        "total_debt": 13191000.0,
+        "debt_to_market_cap": 0.3296115126897059,
         "industry": "Software - Infrastructure",
         "sector": "Technology"
       }
