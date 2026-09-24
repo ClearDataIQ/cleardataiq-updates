@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-24T20:12:16.797959+00:00",
+  "updated_at": "2026-09-24T20:12:24.975528+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -3216,6 +3216,13 @@
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
       "checked_at": "2026-09-24T20:12:15.999808+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
+    },
+    "BNY": {
+      "status": "NON_COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-24T20:12:23.919914+00:00",
       "reason": "Owner manual classification",
       "confidence": 100
     }
