@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-24T18:42:39.070723+00:00",
+  "updated_at": "2026-09-24T18:43:02.024900+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -2571,23 +2571,11 @@
       "confidence": 100
     },
     "TWST": {
-      "ticker": "TWST",
       "status": "COMPLIANT",
-      "source": "AUTO_FREE_SCREEN_V1",
-      "confidence": 90,
-      "reason": "Permissible business screen passed; debt/market-cap 0.9% <= 30%",
-      "checked_at": "2026-09-24T14:20:33.766955+00:00",
-      "rules": {
-        "debt_to_market_cap_max": 0.3,
-        "prohibited_income_max": 0.05
-      },
-      "metrics": {
-        "market_cap": 11655746560.0,
-        "total_debt": 108590000.0,
-        "debt_to_market_cap": 0.009316434553635318,
-        "industry": "Biotechnology",
-        "sector": "Healthcare"
-      }
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-24T18:43:00.971315+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
     },
     "LU": {
       "status": "NON_COMPLIANT",
