@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-24T20:15:21.942316+00:00",
+  "updated_at": "2026-09-24T20:15:28.932886+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -3342,6 +3342,13 @@
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
       "checked_at": "2026-09-24T20:15:21.022947+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
+    },
+    "UNP": {
+      "status": "COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-24T20:15:27.975220+00:00",
       "reason": "Owner manual classification",
       "confidence": 100
     }
