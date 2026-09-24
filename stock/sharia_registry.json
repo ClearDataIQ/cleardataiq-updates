@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-24T23:14:43.160510+00:00",
+  "updated_at": "2026-09-24T23:14:58.907286+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -2836,23 +2836,11 @@
       "confidence": 100
     },
     "AVX": {
-      "ticker": "AVX",
-      "status": "UNKNOWN",
-      "source": "AUTO_FREE_SCREEN_V1",
-      "confidence": 70,
-      "reason": "Debt/market-cap 33.0% exceeds the configured 30% screen; full Sharia review required",
-      "checked_at": "2026-09-24T18:40:30.363011+00:00",
-      "rules": {
-        "debt_to_market_cap_max": 0.3,
-        "prohibited_income_max": 0.05
-      },
-      "metrics": {
-        "market_cap": 40019840.0,
-        "total_debt": 13191000.0,
-        "debt_to_market_cap": 0.3296115126897059,
-        "industry": "Software - Infrastructure",
-        "sector": "Technology"
-      }
+      "status": "NON_COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-24T23:14:57.935795+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
     },
     "ALP": {
       "status": "COMPLIANT",
