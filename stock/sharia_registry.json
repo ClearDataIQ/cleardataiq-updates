@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-24T19:05:08.372628+00:00",
+  "updated_at": "2026-09-24T20:04:44.040297+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -2829,23 +2829,11 @@
       }
     },
     "TJGC": {
-      "ticker": "TJGC",
-      "status": "UNKNOWN",
-      "source": "AUTO_FREE_SCREEN_V1",
-      "confidence": 50,
-      "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-24T15:49:06.370414+00:00",
-      "rules": {
-        "debt_to_market_cap_max": 0.3,
-        "prohibited_income_max": 0.05
-      },
-      "metrics": {
-        "market_cap": 265832608.0,
-        "total_debt": 21748604.0,
-        "debt_to_market_cap": 0.08181315363689318,
-        "industry": "Advertising Agencies",
-        "sector": "Communication Services"
-      }
+      "status": "NON_COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-24T20:04:42.818940+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
     },
     "AVX": {
       "ticker": "AVX",
@@ -3037,6 +3025,25 @@
         "debt_to_market_cap": 0.007123724544114031,
         "industry": "Medical Devices",
         "sector": "Healthcare"
+      }
+    },
+    "TEMT": {
+      "ticker": "TEMT",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-24T19:29:07.397512+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
       }
     }
   }
