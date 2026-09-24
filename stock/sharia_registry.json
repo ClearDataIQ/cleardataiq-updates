@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-24T20:08:49.380304+00:00",
+  "updated_at": "2026-09-24T20:08:58.090899+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -1469,9 +1469,9 @@
       "confidence": 100
     },
     "XLV": {
-      "status": "COMPLIANT",
+      "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "checked_at": "2026-09-23T00:25:39.634079+00:00",
+      "checked_at": "2026-09-24T20:08:56.894083+00:00",
       "reason": "Owner manual classification",
       "confidence": 100
     },
