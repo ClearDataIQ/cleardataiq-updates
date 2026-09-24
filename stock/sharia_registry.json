@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-24T20:16:06.656865+00:00",
+  "updated_at": "2026-09-24T20:16:14.655225+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -3370,6 +3370,13 @@
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
       "checked_at": "2026-09-24T20:16:05.771049+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
+    },
+    "INEO": {
+      "status": "NON_COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-24T20:16:13.953906+00:00",
       "reason": "Owner manual classification",
       "confidence": 100
     }
