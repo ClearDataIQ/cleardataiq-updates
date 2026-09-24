@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-24T18:41:29.613087+00:00",
+  "updated_at": "2026-09-24T18:41:32.758753+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -2904,6 +2904,63 @@
       "confidence": 50,
       "reason": "Business or financial data is not strong enough for automatic approval",
       "checked_at": "2026-09-24T18:41:28.870688+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
+    },
+    "WRBY": {
+      "ticker": "WRBY",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-24T18:41:29.367343+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 3243475456.0,
+        "total_debt": 250979008.0,
+        "debt_to_market_cap": 0.07737965383265721,
+        "industry": "Medical Instruments & Supplies",
+        "sector": "Healthcare"
+      }
+    },
+    "TXXS": {
+      "ticker": "TXXS",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-24T18:41:30.271471+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
+    },
+    "OKTG": {
+      "ticker": "OKTG",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-24T18:41:31.354886+00:00",
       "rules": {
         "debt_to_market_cap_max": 0.3,
         "prohibited_income_max": 0.05
