@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-24T14:24:41.717074+00:00",
+  "updated_at": "2026-09-24T14:24:51.657890+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -2732,6 +2732,13 @@
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
       "checked_at": "2026-09-24T14:24:41.091955+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
+    },
+    "OKTA": {
+      "status": "COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-24T14:24:50.464528+00:00",
       "reason": "Owner manual classification",
       "confidence": 100
     }
