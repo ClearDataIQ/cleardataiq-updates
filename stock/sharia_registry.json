@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-24T18:41:43.620448+00:00",
+  "updated_at": "2026-09-24T18:41:59.911704+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -3028,6 +3028,25 @@
         "debt_to_market_cap": 0.005926973507820937,
         "industry": "Diagnostics & Research",
         "sector": "Healthcare"
+      }
+    },
+    "TSSI": {
+      "ticker": "TSSI",
+      "status": "COMPLIANT",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 90,
+      "reason": "Permissible business screen passed; debt/market-cap 13.2% <= 30%",
+      "checked_at": "2026-09-24T18:41:57.860748+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 293478304.0,
+        "total_debt": 38765000.0,
+        "debt_to_market_cap": 0.1320881287360854,
+        "industry": "Information Technology Services",
+        "sector": "Technology"
       }
     }
   }
