@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-24T18:43:02.024900+00:00",
+  "updated_at": "2026-09-24T19:05:08.372628+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -2995,22 +2995,48 @@
       }
     },
     "TSSI": {
-      "ticker": "TSSI",
       "status": "COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-24T18:43:04.135265+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
+    },
+    "NXTC": {
+      "ticker": "NXTC",
+      "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
-      "confidence": 90,
-      "reason": "Permissible business screen passed; debt/market-cap 13.2% <= 30%",
-      "checked_at": "2026-09-24T18:41:57.860748+00:00",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-24T18:47:27.735199+00:00",
       "rules": {
         "debt_to_market_cap_max": 0.3,
         "prohibited_income_max": 0.05
       },
       "metrics": {
-        "market_cap": 293478304.0,
-        "total_debt": 38765000.0,
-        "debt_to_market_cap": 0.1320881287360854,
-        "industry": "Information Technology Services",
-        "sector": "Technology"
+        "market_cap": 24992380.0,
+        "total_debt": 4666000.0,
+        "debt_to_market_cap": 0.18669690521671006,
+        "industry": "Biotechnology",
+        "sector": "Healthcare"
+      }
+    },
+    "TXG": {
+      "ticker": "TXG",
+      "status": "COMPLIANT",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 90,
+      "reason": "Permissible business screen passed; debt/market-cap 0.7% <= 30%",
+      "checked_at": "2026-09-24T19:05:07.365327+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 11061067776.0,
+        "total_debt": 78796000.0,
+        "debt_to_market_cap": 0.007123724544114031,
+        "industry": "Medical Devices",
+        "sector": "Healthcare"
       }
     }
   }
