@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-24T14:21:06.445849+00:00",
+  "updated_at": "2026-09-24T14:22:29.515053+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -2456,23 +2456,11 @@
       }
     },
     "APUS": {
-      "ticker": "APUS",
-      "status": "UNKNOWN",
-      "source": "AUTO_FREE_SCREEN_V1",
-      "confidence": 50,
-      "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-24T14:13:16.152804+00:00",
-      "rules": {
-        "debt_to_market_cap_max": 0.3,
-        "prohibited_income_max": 0.05
-      },
-      "metrics": {
-        "market_cap": 8666563.0,
-        "total_debt": null,
-        "debt_to_market_cap": 0.0,
-        "industry": "Drug Manufacturers - Specialty & Generic",
-        "sector": "Healthcare"
-      }
+      "status": "NON_COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-24T14:22:27.967576+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
     },
     "SRZN": {
       "ticker": "SRZN",
