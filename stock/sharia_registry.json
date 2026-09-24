@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-24T23:12:56.340633+00:00",
+  "updated_at": "2026-09-24T23:14:43.160510+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -2855,23 +2855,11 @@
       }
     },
     "ALP": {
-      "ticker": "ALP",
-      "status": "UNKNOWN",
-      "source": "AUTO_FREE_SCREEN_V1",
-      "confidence": 50,
-      "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-24T18:41:27.877413+00:00",
-      "rules": {
-        "debt_to_market_cap_max": 0.3,
-        "prohibited_income_max": 0.05
-      },
-      "metrics": {
-        "market_cap": 8524009.0,
-        "total_debt": 138000.0,
-        "debt_to_market_cap": 0.01618956526207328,
-        "industry": "Asset Management",
-        "sector": "Financial Services"
-      }
+      "status": "COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-24T23:14:42.357878+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
     },
     "IONX": {
       "ticker": "IONX",
