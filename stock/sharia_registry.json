@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-24T23:12:34.320257+00:00",
+  "updated_at": "2026-09-24T23:12:56.340633+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -66,9 +66,9 @@
       "confidence": 100
     },
     "BNR": {
-      "status": "NON_COMPLIANT",
+      "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "checked_at": "2026-09-23T00:29:02.365463+00:00",
+      "checked_at": "2026-09-24T23:12:55.146281+00:00",
       "reason": "Owner manual classification",
       "confidence": 100
     },
