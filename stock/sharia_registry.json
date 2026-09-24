@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-24T18:41:32.758753+00:00",
+  "updated_at": "2026-09-24T18:41:43.620448+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -2971,6 +2971,63 @@
         "debt_to_market_cap": null,
         "industry": null,
         "sector": null
+      }
+    },
+    "NTRB": {
+      "ticker": "NTRB",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-24T18:41:33.370647+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 105328992.0,
+        "total_debt": 219719.0,
+        "debt_to_market_cap": 0.002086025849369184,
+        "industry": "Biotechnology",
+        "sector": "Healthcare"
+      }
+    },
+    "PLU": {
+      "ticker": "PLU",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-24T18:41:36.357662+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
+    },
+    "CDNA": {
+      "ticker": "CDNA",
+      "status": "COMPLIANT",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 90,
+      "reason": "Permissible business screen passed; debt/market-cap 0.6% <= 30%",
+      "checked_at": "2026-09-24T18:41:42.153709+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 3247357184.0,
+        "total_debt": 19247000.0,
+        "debt_to_market_cap": 0.005926973507820937,
+        "industry": "Diagnostics & Research",
+        "sector": "Healthcare"
       }
     }
   }
