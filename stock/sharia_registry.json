@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-24T14:13:15.991340+00:00",
+  "updated_at": "2026-09-24T14:14:13.895337+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -2453,6 +2453,101 @@
         "debt_to_market_cap": null,
         "industry": null,
         "sector": null
+      }
+    },
+    "APUS": {
+      "ticker": "APUS",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-24T14:13:16.152804+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 8666563.0,
+        "total_debt": null,
+        "debt_to_market_cap": 0.0,
+        "industry": "Drug Manufacturers - Specialty & Generic",
+        "sector": "Healthcare"
+      }
+    },
+    "SRZN": {
+      "ticker": "SRZN",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-24T14:13:21.148987+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 390100576.0,
+        "total_debt": 6316000.0,
+        "debt_to_market_cap": 0.016190696421837635,
+        "industry": "Biotechnology",
+        "sector": "Healthcare"
+      }
+    },
+    "SNDQ": {
+      "ticker": "SNDQ",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-24T14:13:32.920227+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
+    },
+    "SOXS": {
+      "ticker": "SOXS",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-24T14:13:36.729969+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
+    },
+    "P": {
+      "ticker": "P",
+      "status": "COMPLIANT",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 90,
+      "reason": "Permissible business screen passed; debt/market-cap 0.5% <= 30%",
+      "checked_at": "2026-09-24T14:14:11.691184+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 42733228032.0,
+        "total_debt": 225307008.0,
+        "debt_to_market_cap": 0.0052724078749979515,
+        "industry": "Computer Hardware",
+        "sector": "Technology"
       }
     }
   }
