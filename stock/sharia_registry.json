@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-25T14:10:09.342887+00:00",
+  "updated_at": "2026-09-25T15:09:10.753450+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -3443,6 +3443,82 @@
         "debt_to_market_cap": null,
         "industry": null,
         "sector": null
+      }
+    },
+    "YDES": {
+      "ticker": "YDES",
+      "status": "COMPLIANT",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 90,
+      "reason": "Permissible business screen passed; debt/market-cap 0.0% <= 30%",
+      "checked_at": "2026-09-25T14:10:09.375285+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 371333312.0,
+        "total_debt": 5002.0,
+        "debt_to_market_cap": 1.3470377793630321e-05,
+        "industry": "Biotechnology",
+        "sector": "Healthcare"
+      }
+    },
+    "KOLD": {
+      "ticker": "KOLD",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-25T14:40:08.365356+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
+    },
+    "MAAS": {
+      "ticker": "MAAS",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-25T14:52:08.357425+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 6789605888.0,
+        "total_debt": 28982000.0,
+        "debt_to_market_cap": 0.0042685835493372305,
+        "industry": "Information Technology Services",
+        "sector": "Technology"
+      }
+    },
+    "MSGY": {
+      "ticker": "MSGY",
+      "status": "COMPLIANT",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 90,
+      "reason": "Permissible business screen passed; debt/market-cap 1.2% <= 30%",
+      "checked_at": "2026-09-25T15:09:09.387395+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 12611768.0,
+        "total_debt": 153846.0,
+        "debt_to_market_cap": 0.012198606888423573,
+        "industry": "Engineering & Construction",
+        "sector": "Industrials"
       }
     }
   }
