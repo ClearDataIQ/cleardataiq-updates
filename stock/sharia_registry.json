@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-25T22:00:10.192238+00:00",
+  "updated_at": "2026-09-25T22:04:12.675933+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -3351,23 +3351,11 @@
       "confidence": 100
     },
     "INLF": {
-      "ticker": "INLF",
-      "status": "UNKNOWN",
-      "source": "AUTO_FREE_SCREEN_V1",
-      "confidence": 70,
-      "reason": "Debt/market-cap 244.8% exceeds the configured 30% screen; full Sharia review required",
-      "checked_at": "2026-09-25T12:42:07.842504+00:00",
-      "rules": {
-        "debt_to_market_cap_max": 0.3,
-        "prohibited_income_max": 0.05
-      },
-      "metrics": {
-        "market_cap": 3216379.0,
-        "total_debt": 7873343.0,
-        "debt_to_market_cap": 2.4478903139213384,
-        "industry": "Specialty Industrial Machinery",
-        "sector": "Industrials"
-      }
+      "status": "COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-25T22:04:11.968950+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
     },
     "AESI": {
       "ticker": "AESI",
