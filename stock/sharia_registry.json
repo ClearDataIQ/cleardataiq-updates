@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-25T16:02:10.705208+00:00",
+  "updated_at": "2026-09-25T16:20:09.948239+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -3576,6 +3576,44 @@
       "rules": {
         "debt_to_market_cap_max": 0.3,
         "prohibited_income_max": 0.05
+      }
+    },
+    "DLLL": {
+      "ticker": "DLLL",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-25T16:14:08.379503+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
+    },
+    "BE": {
+      "ticker": "BE",
+      "status": "COMPLIANT",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 90,
+      "reason": "Permissible business screen passed; debt/market-cap 3.3% <= 30%",
+      "checked_at": "2026-09-25T16:20:08.388119+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 85624995840.0,
+        "total_debt": 2815023104.0,
+        "debt_to_market_cap": 0.03287618383375095,
+        "industry": "Electrical Equipment & Parts",
+        "sector": "Industrials"
       }
     }
   }
