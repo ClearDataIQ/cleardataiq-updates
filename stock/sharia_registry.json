@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-25T15:09:10.753450+00:00",
+  "updated_at": "2026-09-25T15:59:44.762212+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -3520,6 +3520,51 @@
         "industry": "Engineering & Construction",
         "sector": "Industrials"
       }
+    },
+    "WHLR": {
+      "ticker": "WHLR",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 70,
+      "reason": "Debt/market-cap 16509.9% exceeds the configured 30% screen; full Sharia review required",
+      "checked_at": "2026-09-25T15:27:06.431834+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 2824008.0,
+        "total_debt": 466240992.0,
+        "debt_to_market_cap": 165.0990337137855,
+        "industry": "REIT - Retail",
+        "sector": "Real Estate"
+      }
+    },
+    "BEG": {
+      "ticker": "BEG",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-25T15:44:08.371833+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
+    },
+    "EGP": {
+      "status": "COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-25T15:59:43.123561+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
     }
   }
 }
