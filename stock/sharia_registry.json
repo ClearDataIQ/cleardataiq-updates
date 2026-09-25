@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-25T17:25:36.673174+00:00",
+  "updated_at": "2026-09-25T18:09:11.663884+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -1084,10 +1084,10 @@
       "confidence": 100
     },
     "ALM": {
-      "status": "COMPLIANT",
-      "source": "LEGACY_DEVICE_MIGRATION",
-      "checked_at": null,
-      "reason": "Recovered from legacy device localStorage",
+      "status": "NON_COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-25T18:09:10.574836+00:00",
+      "reason": "Owner manual classification",
       "confidence": 100
     },
     "ALB": {
@@ -3653,6 +3653,63 @@
       "checked_at": "2026-09-25T17:25:36.135317+00:00",
       "reason": "Owner manual classification",
       "confidence": 100
+    },
+    "AKAL": {
+      "ticker": "AKAL",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-25T18:07:52.854479+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
+    },
+    "FLYT": {
+      "ticker": "FLYT",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-25T18:07:54.975154+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
+    },
+    "CRDU": {
+      "ticker": "CRDU",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-25T18:08:15.546390+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
     }
   }
 }
