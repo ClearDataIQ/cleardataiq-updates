@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-25T18:09:11.663884+00:00",
+  "updated_at": "2026-09-25T22:00:10.192238+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -3484,23 +3484,11 @@
       }
     },
     "MAAS": {
-      "ticker": "MAAS",
-      "status": "UNKNOWN",
-      "source": "AUTO_FREE_SCREEN_V1",
-      "confidence": 50,
-      "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-25T14:52:08.357425+00:00",
-      "rules": {
-        "debt_to_market_cap_max": 0.3,
-        "prohibited_income_max": 0.05
-      },
-      "metrics": {
-        "market_cap": 6789605888.0,
-        "total_debt": 28982000.0,
-        "debt_to_market_cap": 0.0042685835493372305,
-        "industry": "Information Technology Services",
-        "sector": "Technology"
-      }
+      "status": "NON_COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-25T22:00:09.310673+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
     },
     "MSGY": {
       "ticker": "MSGY",
@@ -3699,6 +3687,44 @@
       "confidence": 50,
       "reason": "Business or financial data is not strong enough for automatic approval",
       "checked_at": "2026-09-25T18:08:15.546390+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
+    },
+    "AEHG": {
+      "ticker": "AEHG",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-25T19:23:08.368699+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
+    },
+    "TSUI": {
+      "ticker": "TSUI",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-25T20:45:07.471686+00:00",
       "rules": {
         "debt_to_market_cap_max": 0.3,
         "prohibited_income_max": 0.05
