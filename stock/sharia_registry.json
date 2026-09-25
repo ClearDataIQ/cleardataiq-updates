@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-24T23:44:29.394168+00:00",
+  "updated_at": "2026-09-25T14:10:09.342887+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -3349,6 +3349,101 @@
       "checked_at": "2026-09-24T23:44:28.242803+00:00",
       "reason": "Owner manual classification",
       "confidence": 100
+    },
+    "INLF": {
+      "ticker": "INLF",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 70,
+      "reason": "Debt/market-cap 244.8% exceeds the configured 30% screen; full Sharia review required",
+      "checked_at": "2026-09-25T12:42:07.842504+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 3216379.0,
+        "total_debt": 7873343.0,
+        "debt_to_market_cap": 2.4478903139213384,
+        "industry": "Specialty Industrial Machinery",
+        "sector": "Industrials"
+      }
+    },
+    "AESI": {
+      "ticker": "AESI",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 70,
+      "reason": "Debt/market-cap 63.5% exceeds the configured 30% screen; full Sharia review required",
+      "checked_at": "2026-09-25T13:41:07.755994+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 1653170688.0,
+        "total_debt": 1049262016.0,
+        "debt_to_market_cap": 0.6346967216491077,
+        "industry": "Oil & Gas Equipment & Services",
+        "sector": "Energy"
+      }
+    },
+    "RETO": {
+      "ticker": "RETO",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 70,
+      "reason": "Debt/market-cap 43.0% exceeds the configured 30% screen; full Sharia review required",
+      "checked_at": "2026-09-25T14:04:08.369130+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 5667434.0,
+        "total_debt": 2437342.0,
+        "debt_to_market_cap": 0.43006094115961474,
+        "industry": "Building Materials",
+        "sector": "Basic Materials"
+      }
+    },
+    "BEX": {
+      "ticker": "BEX",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-25T14:04:09.369790+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
+    },
+    "IREZ": {
+      "ticker": "IREZ",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-25T14:10:08.369978+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
     }
   }
 }
