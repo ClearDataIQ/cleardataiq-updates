@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-25T16:20:09.948239+00:00",
+  "updated_at": "2026-09-25T17:25:36.673174+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -3615,6 +3615,44 @@
         "industry": "Electrical Equipment & Parts",
         "sector": "Industrials"
       }
+    },
+    "GENI": {
+      "ticker": "GENI",
+      "status": "NON_COMPLIANT",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 99,
+      "reason": "Clearly prohibited primary activity detected: gambling",
+      "checked_at": "2026-09-25T16:20:09.366155+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      }
+    },
+    "WNC": {
+      "ticker": "WNC",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 70,
+      "reason": "Debt/market-cap 102.2% exceeds the configured 30% screen; full Sharia review required",
+      "checked_at": "2026-09-25T16:37:09.372524+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 533249600.0,
+        "total_debt": 545110016.0,
+        "debt_to_market_cap": 1.0222417719581975,
+        "industry": "Farm & Heavy Construction Machinery",
+        "sector": "Industrials"
+      }
+    },
+    "MIRM": {
+      "status": "COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-25T17:25:36.135317+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
     }
   }
 }
