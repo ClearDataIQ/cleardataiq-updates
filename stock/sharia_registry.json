@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-25T15:59:44.762212+00:00",
+  "updated_at": "2026-09-25T16:02:10.705208+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -3565,6 +3565,18 @@
       "checked_at": "2026-09-25T15:59:43.123561+00:00",
       "reason": "Owner manual classification",
       "confidence": 100
+    },
+    "PPLI": {
+      "ticker": "PPLI",
+      "status": "NON_COMPLIANT",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 99,
+      "reason": "Clearly prohibited primary activity detected: alcohol",
+      "checked_at": "2026-09-25T16:02:08.383786+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      }
     }
   }
 }
