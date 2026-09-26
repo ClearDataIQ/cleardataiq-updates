@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-25T23:34:28.240092+00:00",
+  "updated_at": "2026-09-26T01:38:12.684888+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -3377,23 +3377,11 @@
       }
     },
     "RETO": {
-      "ticker": "RETO",
-      "status": "UNKNOWN",
-      "source": "AUTO_FREE_SCREEN_V1",
-      "confidence": 70,
-      "reason": "Debt/market-cap 43.0% exceeds the configured 30% screen; full Sharia review required",
-      "checked_at": "2026-09-25T14:04:08.369130+00:00",
-      "rules": {
-        "debt_to_market_cap_max": 0.3,
-        "prohibited_income_max": 0.05
-      },
-      "metrics": {
-        "market_cap": 5667434.0,
-        "total_debt": 2437342.0,
-        "debt_to_market_cap": 0.43006094115961474,
-        "industry": "Building Materials",
-        "sector": "Basic Materials"
-      }
+      "status": "COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-26T01:38:10.780826+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
     },
     "BEX": {
       "ticker": "BEX",
