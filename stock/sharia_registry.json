@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-26T01:38:12.684888+00:00",
+  "updated_at": "2026-09-26T23:31:26.390321+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -3362,16 +3362,16 @@
       "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 70,
-      "reason": "Debt/market-cap 63.5% exceeds the configured 30% screen; full Sharia review required",
-      "checked_at": "2026-09-25T13:41:07.755994+00:00",
+      "reason": "Debt/market-cap 67.4% exceeds the configured 30% screen; full Sharia review required",
+      "checked_at": "2026-09-26T22:28:56.529612+00:00",
       "rules": {
         "debt_to_market_cap_max": 0.3,
         "prohibited_income_max": 0.05
       },
       "metrics": {
-        "market_cap": 1653170688.0,
+        "market_cap": 1557572608.0,
         "total_debt": 1049262016.0,
-        "debt_to_market_cap": 0.6346967216491077,
+        "debt_to_market_cap": 0.6736520728541214,
         "industry": "Oil & Gas Equipment & Services",
         "sector": "Energy"
       }
@@ -3389,7 +3389,7 @@
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 50,
       "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-25T14:04:09.369790+00:00",
+      "checked_at": "2026-09-26T22:29:18.519436+00:00",
       "rules": {
         "debt_to_market_cap_max": 0.3,
         "prohibited_income_max": 0.05
@@ -3490,16 +3490,16 @@
       "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 70,
-      "reason": "Debt/market-cap 16509.9% exceeds the configured 30% screen; full Sharia review required",
-      "checked_at": "2026-09-25T15:27:06.431834+00:00",
+      "reason": "Debt/market-cap 15779.7% exceeds the configured 30% screen; full Sharia review required",
+      "checked_at": "2026-09-26T22:28:25.997470+00:00",
       "rules": {
         "debt_to_market_cap_max": 0.3,
         "prohibited_income_max": 0.05
       },
       "metrics": {
-        "market_cap": 2824008.0,
+        "market_cap": 2954697.0,
         "total_debt": 466240992.0,
-        "debt_to_market_cap": 165.0990337137855,
+        "debt_to_market_cap": 157.796549696974,
         "industry": "REIT - Retail",
         "sector": "Real Estate"
       }
@@ -3510,7 +3510,7 @@
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 50,
       "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-25T15:44:08.371833+00:00",
+      "checked_at": "2026-09-26T22:31:27.375023+00:00",
       "rules": {
         "debt_to_market_cap_max": 0.3,
         "prohibited_income_max": 0.05
@@ -3548,7 +3548,7 @@
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 50,
       "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-25T16:14:08.379503+00:00",
+      "checked_at": "2026-09-26T22:29:21.251676+00:00",
       "rules": {
         "debt_to_market_cap_max": 0.3,
         "prohibited_income_max": 0.05
@@ -3662,7 +3662,7 @@
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 50,
       "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-25T18:08:15.546390+00:00",
+      "checked_at": "2026-09-26T22:31:31.025348+00:00",
       "rules": {
         "debt_to_market_cap_max": 0.3,
         "prohibited_income_max": 0.05
@@ -3681,7 +3681,7 @@
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 50,
       "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-25T19:23:08.368699+00:00",
+      "checked_at": "2026-09-26T22:31:21.942492+00:00",
       "rules": {
         "debt_to_market_cap_max": 0.3,
         "prohibited_income_max": 0.05
@@ -3700,7 +3700,7 @@
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 50,
       "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-25T20:45:07.471686+00:00",
+      "checked_at": "2026-09-26T22:27:58.226779+00:00",
       "rules": {
         "debt_to_market_cap_max": 0.3,
         "prohibited_income_max": 0.05
@@ -3717,6 +3717,32 @@
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
       "checked_at": "2026-09-25T23:34:26.866919+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
+    },
+    "WETO": {
+      "ticker": "WETO",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 70,
+      "reason": "Debt/market-cap 1251.9% exceeds the configured 30% screen; full Sharia review required",
+      "checked_at": "2026-09-26T22:30:47.782868+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 1843039.0,
+        "total_debt": 23072604.0,
+        "debt_to_market_cap": 12.5187822938093,
+        "industry": "Software - Infrastructure",
+        "sector": "Technology"
+      }
+    },
+    "TEST": {
+      "status": "COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-26T23:31:25.228769+00:00",
       "reason": "Owner manual classification",
       "confidence": 100
     }
