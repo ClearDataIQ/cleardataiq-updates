@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-27T10:35:55.619670+00:00",
+  "updated_at": "2026-09-27T10:36:10.975070+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -4051,6 +4051,13 @@
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
       "checked_at": "2026-09-27T10:35:54.464405+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
+    },
+    "LBTYA": {
+      "status": "NON_COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-27T10:36:10.149515+00:00",
       "reason": "Owner manual classification",
       "confidence": 100
     }
