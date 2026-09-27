@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-27T10:42:19.158496+00:00",
+  "updated_at": "2026-09-27T10:42:26.727884+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -4263,6 +4263,13 @@
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
       "checked_at": "2026-09-27T10:42:18.120955+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
+    },
+    "KDK": {
+      "status": "COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-27T10:42:25.231927+00:00",
       "reason": "Owner manual classification",
       "confidence": 100
     }
