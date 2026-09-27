@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-27T10:40:58.336207+00:00",
+  "updated_at": "2026-09-27T10:41:05.128738+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -4207,6 +4207,13 @@
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
       "checked_at": "2026-09-27T10:40:57.426477+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
+    },
+    "VRT": {
+      "status": "COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-27T10:41:04.055723+00:00",
       "reason": "Owner manual classification",
       "confidence": 100
     }
