@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-27T10:32:53.992704+00:00",
+  "updated_at": "2026-09-27T10:33:01.803337+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -3932,6 +3932,13 @@
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
       "checked_at": "2026-09-27T10:32:53.156134+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
+    },
+    "LNGX": {
+      "status": "NON_COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-27T10:33:00.833483+00:00",
       "reason": "Owner manual classification",
       "confidence": 100
     }
