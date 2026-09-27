@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-27T10:59:29.474994+00:00",
+  "updated_at": "2026-09-27T10:59:45.842950+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -3410,9 +3410,9 @@
       }
     },
     "YDES": {
-      "status": "NON_COMPLIANT",
+      "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "checked_at": "2026-09-27T10:59:27.695207+00:00",
+      "checked_at": "2026-09-27T10:59:44.798127+00:00",
       "reason": "Owner manual classification",
       "confidence": 100
     },
