@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-27T10:38:52.922258+00:00",
+  "updated_at": "2026-09-27T10:39:04.104719+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -4109,6 +4109,13 @@
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
       "checked_at": "2026-09-27T10:38:52.144956+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
+    },
+    "CRGO": {
+      "status": "NON_COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-27T10:39:02.867485+00:00",
       "reason": "Owner manual classification",
       "confidence": 100
     }
