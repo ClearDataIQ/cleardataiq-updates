@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-27T10:32:26.790758+00:00",
+  "updated_at": "2026-09-27T10:32:32.688015+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -3911,6 +3911,13 @@
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
       "checked_at": "2026-09-27T10:32:25.925823+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
+    },
+    "EZU": {
+      "status": "NON_COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-27T10:32:31.982146+00:00",
       "reason": "Owner manual classification",
       "confidence": 100
     }
