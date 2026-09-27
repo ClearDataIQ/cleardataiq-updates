@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-27T10:39:12.808527+00:00",
+  "updated_at": "2026-09-27T10:39:19.524213+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -4123,6 +4123,13 @@
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
       "checked_at": "2026-09-27T10:39:11.881243+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
+    },
+    "GLXG": {
+      "status": "COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-27T10:39:18.342217+00:00",
       "reason": "Owner manual classification",
       "confidence": 100
     }
