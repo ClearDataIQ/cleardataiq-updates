@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-27T10:33:08.256106+00:00",
+  "updated_at": "2026-09-27T10:33:13.650217+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -3946,6 +3946,13 @@
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
       "checked_at": "2026-09-27T10:33:07.239129+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
+    },
+    "UGA": {
+      "status": "NON_COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-27T10:33:12.900527+00:00",
       "reason": "Owner manual classification",
       "confidence": 100
     }
