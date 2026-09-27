@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-27T10:46:44.498637+00:00",
+  "updated_at": "2026-09-27T10:46:53.965022+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -4410,6 +4410,13 @@
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
       "checked_at": "2026-09-27T10:46:43.756552+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
+    },
+    "GAUZ": {
+      "status": "NON_COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-27T10:46:53.335453+00:00",
       "reason": "Owner manual classification",
       "confidence": 100
     }
