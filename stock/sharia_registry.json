@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-27T10:28:51.180246+00:00",
+  "updated_at": "2026-09-27T10:29:06.981029+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -3799,6 +3799,13 @@
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
       "checked_at": "2026-09-27T10:28:50.262906+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
+    },
+    "DELL": {
+      "status": "NON_COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-27T10:29:05.984949+00:00",
       "reason": "Owner manual classification",
       "confidence": 100
     }
