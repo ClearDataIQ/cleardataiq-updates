@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-27T10:48:40.050207+00:00",
+  "updated_at": "2026-09-27T10:59:29.474994+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -3410,23 +3410,11 @@
       }
     },
     "YDES": {
-      "ticker": "YDES",
-      "status": "COMPLIANT",
-      "source": "AUTO_FREE_SCREEN_V1",
-      "confidence": 90,
-      "reason": "Permissible business screen passed; debt/market-cap 0.0% <= 30%",
-      "checked_at": "2026-09-25T14:10:09.375285+00:00",
-      "rules": {
-        "debt_to_market_cap_max": 0.3,
-        "prohibited_income_max": 0.05
-      },
-      "metrics": {
-        "market_cap": 371333312.0,
-        "total_debt": 5002.0,
-        "debt_to_market_cap": 1.3470377793630321e-05,
-        "industry": "Biotechnology",
-        "sector": "Healthcare"
-      }
+      "status": "NON_COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-27T10:59:27.695207+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
     },
     "KOLD": {
       "ticker": "KOLD",
