@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-27T10:37:29.994060+00:00",
+  "updated_at": "2026-09-27T10:37:48.847412+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -4088,6 +4088,13 @@
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
       "checked_at": "2026-09-27T10:37:28.869586+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
+    },
+    "GNRC": {
+      "status": "COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-27T10:37:47.876927+00:00",
       "reason": "Owner manual classification",
       "confidence": 100
     }
