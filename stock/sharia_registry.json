@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-27T10:41:35.073014+00:00",
+  "updated_at": "2026-09-27T10:41:51.881632+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -4235,6 +4235,13 @@
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
       "checked_at": "2026-09-27T10:41:34.089675+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
+    },
+    "CRMT": {
+      "status": "NON_COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-27T10:41:51.118120+00:00",
       "reason": "Owner manual classification",
       "confidence": 100
     }
