@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-27T10:38:38.088889+00:00",
+  "updated_at": "2026-09-27T10:38:52.922258+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -4102,6 +4102,13 @@
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
       "checked_at": "2026-09-27T10:38:36.897216+00:00",
+      "reason": "Owner manual classification",
+      "confidence": 100
+    },
+    "BTOC": {
+      "status": "COMPLIANT",
+      "source": "OWNER_OVERRIDE",
+      "checked_at": "2026-09-27T10:38:52.144956+00:00",
       "reason": "Owner manual classification",
       "confidence": 100
     }
