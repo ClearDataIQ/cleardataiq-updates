@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-28T13:38:31.505701+00:00",
+  "updated_at": "2026-09-28T13:40:32.419620+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -4455,6 +4455,25 @@
         "debt_to_market_cap": null,
         "industry": null,
         "sector": null
+      }
+    },
+    "AMPX": {
+      "ticker": "AMPX",
+      "status": "COMPLIANT",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 90,
+      "reason": "Permissible business screen passed; debt/market-cap 0.4% <= 30%",
+      "checked_at": "2026-09-28T13:40:25.300355+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 1558680320.0,
+        "total_debt": 6377000.0,
+        "debt_to_market_cap": 0.0040912815271832,
+        "industry": "Electrical Equipment & Parts",
+        "sector": "Industrials"
       }
     }
   }
