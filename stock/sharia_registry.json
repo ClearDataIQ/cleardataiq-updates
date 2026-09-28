@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-28T13:37:30.731855+00:00",
+  "updated_at": "2026-09-28T13:38:31.505701+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -4436,6 +4436,25 @@
         "debt_to_market_cap": 0.011592357356117442,
         "industry": "Biotechnology",
         "sector": "Healthcare"
+      }
+    },
+    "JDST": {
+      "ticker": "JDST",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-28T13:38:25.363222+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
       }
     }
   }
