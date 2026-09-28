@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-28T23:01:28.646726+00:00",
+  "updated_at": "2026-09-28T23:02:28.197184+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -5002,7 +5002,7 @@
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 70,
       "reason": "Debt/market-cap 182.8% exceeds the configured 30% screen; full Sharia review required",
-      "checked_at": "2026-09-28T23:01:27.724490+00:00",
+      "checked_at": "2026-09-28T23:02:27.034878+00:00",
       "rules": {
         "debt_to_market_cap_max": 0.3,
         "prohibited_income_max": 0.05
@@ -5149,22 +5149,86 @@
       }
     },
     "XERS": {
-      "ticker": "XERS",
       "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 50,
       "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-28T23:01:26.075484+00:00",
+      "checked_at": "2026-09-28T23:01:26.075484+00:00"
+    },
+    "VRNS": {
+      "ticker": "VRNS",
+      "status": "COMPLIANT",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 90,
+      "reason": "Permissible business screen passed; debt/market-cap 9.6% <= 30%",
+      "checked_at": "2026-09-28T23:01:26.041298+00:00",
       "rules": {
         "debt_to_market_cap_max": 0.3,
         "prohibited_income_max": 0.05
       },
       "metrics": {
-        "market_cap": 1792208512.0,
-        "total_debt": 289441984.0,
-        "debt_to_market_cap": 0.16150017258706112,
-        "industry": "Drug Manufacturers - Specialty & Generic",
-        "sector": "Healthcare"
+        "market_cap": 5504688640.0,
+        "total_debt": 528374016.0,
+        "debt_to_market_cap": 0.09598617661325165,
+        "industry": "Software - Infrastructure",
+        "sector": "Technology"
+      }
+    },
+    "TSDD": {
+      "ticker": "TSDD",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-28T23:01:27.487513+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
+    },
+    "TRMD": {
+      "ticker": "TRMD",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-28T23:01:28.002019+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 3635890176.0,
+        "total_debt": 1076199936.0,
+        "debt_to_market_cap": 0.2959935212300538,
+        "industry": "Oil & Gas Midstream",
+        "sector": "Energy"
+      }
+    },
+    "SPCG": {
+      "ticker": "SPCG",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-28T23:02:26.101870+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
       }
     }
   }
