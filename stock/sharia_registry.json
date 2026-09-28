@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-28T12:23:33.268294+00:00",
+  "updated_at": "2026-09-28T13:37:30.731855+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -4417,6 +4417,25 @@
         "debt_to_market_cap": 0.05417017147676121,
         "industry": "Communication Equipment",
         "sector": "Technology"
+      }
+    },
+    "KOD": {
+      "ticker": "KOD",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-28T13:37:26.403792+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 4550929408.0,
+        "total_debt": 52756000.0,
+        "debt_to_market_cap": 0.011592357356117442,
+        "industry": "Biotechnology",
+        "sector": "Healthcare"
       }
     }
   }
