@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-28T13:40:32.419620+00:00",
+  "updated_at": "2026-09-28T16:16:30.165089+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -3665,16 +3665,16 @@
       "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 70,
-      "reason": "Debt/market-cap 1251.9% exceeds the configured 30% screen; full Sharia review required",
-      "checked_at": "2026-09-26T22:30:47.782868+00:00",
+      "reason": "Debt/market-cap 1297.4% exceeds the configured 30% screen; full Sharia review required",
+      "checked_at": "2026-09-28T14:12:25.244305+00:00",
       "rules": {
         "debt_to_market_cap_max": 0.3,
         "prohibited_income_max": 0.05
       },
       "metrics": {
-        "market_cap": 1843039.0,
+        "market_cap": 1778371.0,
         "total_debt": 23072604.0,
-        "debt_to_market_cap": 12.5187822938093,
+        "debt_to_market_cap": 12.974010484876327,
         "industry": "Software - Infrastructure",
         "sector": "Technology"
       }
@@ -4474,6 +4474,120 @@
         "debt_to_market_cap": 0.0040912815271832,
         "industry": "Electrical Equipment & Parts",
         "sector": "Industrials"
+      }
+    },
+    "LFCR": {
+      "ticker": "LFCR",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 70,
+      "reason": "Debt/market-cap 63.6% exceeds the configured 30% screen; full Sharia review required",
+      "checked_at": "2026-09-28T14:06:26.012252+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 246044896.0,
+        "total_debt": 156375008.0,
+        "debt_to_market_cap": 0.6355547728980324,
+        "industry": "Drug Manufacturers - Specialty & Generic",
+        "sector": "Healthcare"
+      }
+    },
+    "SCYX": {
+      "ticker": "SCYX",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-28T14:24:25.035153+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 49350060.0,
+        "total_debt": 1945000.0,
+        "debt_to_market_cap": 0.039412312771250936,
+        "industry": "Drug Manufacturers - Specialty & Generic",
+        "sector": "Healthcare"
+      }
+    },
+    "SKDD": {
+      "ticker": "SKDD",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-28T14:47:26.019535+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
+    },
+    "AAOZ": {
+      "ticker": "AAOZ",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-28T14:53:25.015858+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
+    },
+    "ELAB": {
+      "ticker": "ELAB",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 70,
+      "reason": "Debt/market-cap 345.5% exceeds the configured 30% screen; full Sharia review required",
+      "checked_at": "2026-09-28T14:59:26.009396+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 4120757.0,
+        "total_debt": 14237784.0,
+        "debt_to_market_cap": 3.455137975862202,
+        "industry": "Biotechnology",
+        "sector": "Healthcare"
+      }
+    },
+    "TMCR": {
+      "ticker": "TMCR",
+      "status": "COMPLIANT",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 90,
+      "reason": "Permissible business screen passed; debt/market-cap 13.1% <= 30%",
+      "checked_at": "2026-09-28T16:16:26.025834+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 323587328.0,
+        "total_debt": 42293712.0,
+        "debt_to_market_cap": 0.13070262133379956,
+        "industry": "Other Industrial Metals & Mining",
+        "sector": "Basic Materials"
       }
     }
   }
