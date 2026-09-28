@@ -1,4171 +1,4879 @@
 {
   "version": 2,
-  "updated_at": "2026-09-28T21:22:32.366452+00:00",
+  "updated_at": "2026-09-28T22:59:29.109480+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:27:23.134898+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:27:23.134898+00:00"
+      "confidence": 100
     },
     "SKHA": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:27:00.157032+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:27:00.157032+00:00"
+      "confidence": 100
     },
     "OMER": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-22T23:58:34.694897+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-22T23:58:34.694897+00:00"
+      "confidence": 100
     },
     "EAF": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-22T23:52:51.471859+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-22T23:52:51.471859+00:00"
+      "confidence": 100
     },
     "SGRY": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:28:35.736076+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:28:35.736076+00:00"
+      "confidence": 100
     },
     "RTB": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:28:43.019281+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:28:43.019281+00:00"
+      "confidence": 100
     },
     "DNA": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:29:30.282834+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:29:30.282834+00:00"
+      "confidence": 100
     },
     "TNGX": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:27:53.246093+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:27:53.246093+00:00"
+      "confidence": 100
     },
     "TLSI": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:28:17.183024+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:28:17.183024+00:00"
+      "confidence": 100
     },
     "BNR": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T23:12:55.146281+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T23:12:55.146281+00:00"
+      "confidence": 100
     },
     "VKTX": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:24:52.513791+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:24:52.513791+00:00"
+      "confidence": 100
     },
     "JAGX": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:29:21.683924+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:29:21.683924+00:00"
+      "confidence": 100
     },
     "BALY": {
+      "ticker": "BALY",
       "status": "NON_COMPLIANT",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 99,
       "reason": "Clearly prohibited primary activity detected: gambling",
-      "checked_at": "2026-09-22T23:37:39.974926+00:00"
+      "checked_at": "2026-09-22T23:37:39.974926+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      }
     },
     "NBIZ": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:27:32.330882+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:27:32.330882+00:00"
+      "confidence": 100
     },
     "ONON": {
       "status": "COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "VICR": {
       "status": "COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "AMD": {
       "status": "COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "MRNA": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "GRML": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:28:52.934531+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:28:52.934531+00:00"
+      "confidence": 100
     },
     "COIN": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "HOOD": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "BFLY": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T23:12:33.472127+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T23:12:33.472127+00:00"
+      "confidence": 100
     },
     "IPDN": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:28:11.474753+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:28:11.474753+00:00"
+      "confidence": 100
     },
     "INOD": {
+      "ticker": "INOD",
       "status": "NON_COMPLIANT",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 99,
       "reason": "Clearly prohibited primary activity detected: conventional bank",
-      "checked_at": "2026-09-22T23:38:36.645516+00:00"
+      "checked_at": "2026-09-22T23:38:36.645516+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      }
     },
     "INTW": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "STI": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "DSP": {
       "status": "COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "MU": {
       "status": "COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "META": {
       "status": "COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "INTC": {
       "status": "COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "QCOM": {
       "status": "COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "CRML": {
       "status": "COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "CRMX": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "CRMU": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "RBLU": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "ARM": {
       "status": "COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "AMDL": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "RKLX": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "ALOY": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "GLND": {
       "status": "COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "AAPL": {
       "status": "COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "AMZN": {
       "status": "COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "GOOG": {
       "status": "COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "MSFT": {
       "status": "COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "NVDA": {
       "status": "COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "SPCX": {
       "status": "COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "TSLA": {
       "status": "COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "MSTR": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:03:23.771119+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:03:23.771119+00:00"
+      "confidence": 100
     },
     "GOOGL": {
       "status": "COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "RIOT": {
       "status": "COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "BTCUSD": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "CLSK": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "ETHUSD": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "MARA": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "SOLUSD": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "XRPUSD": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "CRM": {
       "status": "COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "LYV": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "WBD": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "FSLY": {
       "status": "COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "BNC": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "BITX": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "BITU": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "CONL": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "QCMU": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "SUIL": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "AXTU": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "ARMG": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "HBR": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "OUSL": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "BTCU": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "MST": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "AZO": {
       "status": "COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "CHRD": {
       "status": "COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "FPS": {
       "status": "COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "GDX": {
       "status": "COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "MTDR": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "MHK": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "JETS": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "HPQ": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "FDX": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "FDN": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "COST": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "COP": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "AKAM": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "DOCN": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "OIH": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:07:52.980189+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:07:52.980189+00:00"
+      "confidence": 100
     },
     "OVV": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "PR": {
       "status": "COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "RMBS": {
       "status": "COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "SMMT": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "SKHY": {
       "status": "COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "PSKY": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "SNDK": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:49:28.715431+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:49:28.715431+00:00"
+      "confidence": 100
     },
     "UPS": {
       "status": "COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "XOM": {
       "status": "COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "IWM": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "VOO": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "XOP": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "DIA": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "SMH": {
       "status": "COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "XLE": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:06:32.502586+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:06:32.502586+00:00"
+      "confidence": 100
     },
     "XLK": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:08:48.372456+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:08:48.372456+00:00"
+      "confidence": 100
     },
     "XLC": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "XLI": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "XLP": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "XLU": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "XLY": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "BMNR": {
       "status": "COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "SNXX": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "YSS": {
       "status": "COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "PRTH": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "ARMW": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "MSTX": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "MRNX": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "MSTU": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "LABX": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "BMNU": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "GSUI": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "FBL": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "QCML": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "USGG": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "INT": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "AXTX": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "METU": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "BYAH": {
       "status": "COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "JXG": {
       "status": "COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "MSC": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "LVWR": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "JWEL": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "EJH": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "AMBO": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "VEEE": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "BSX": {
       "status": "COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "HIMS": {
       "status": "COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "NVO": {
       "status": "COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "RGEN": {
       "status": "COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "UNH": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "PRME": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "NTLA": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "CLOV": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "AVBP": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "NOK": {
       "status": "COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "SUPX": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "GRAL": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "NUAI": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "GME": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "DASH": {
       "status": "COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "UBER": {
       "status": "COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "DIS": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "SOXL": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "USO": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "CCJ": {
       "status": "COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "ALM": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-25T18:09:10.574836+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-25T18:09:10.574836+00:00"
+      "confidence": 100
     },
     "ALB": {
       "status": "COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "FCX": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "MP": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "REMX": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "VST": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "SNDC": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "SNDU": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "MAZE": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "LITZ": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "SNDG": {
       "status": "NON_COMPLIANT",
       "source": "LEGACY_DEVICE_MIGRATION",
-      "confidence": 100,
+      "checked_at": null,
       "reason": "Recovered from legacy device localStorage",
-      "checked_at": null
+      "confidence": 100
     },
     "AV": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:00:41.077499+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:00:41.077499+00:00"
+      "confidence": 100
     },
     "KBH": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-22T23:48:50.525407+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-22T23:48:50.525407+00:00"
+      "confidence": 100
     },
     "THO": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-22T23:49:28.933080+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-22T23:49:28.933080+00:00"
+      "confidence": 100
     },
     "WOR": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:24:38.497320+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:24:38.497320+00:00"
+      "confidence": 100
     },
     "QQQ": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:56:40.989071+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:56:40.989071+00:00"
+      "confidence": 100
     },
     "SPY": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:56:54.024784+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:56:54.024784+00:00"
+      "confidence": 100
     },
     "SOS": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-22T23:50:55.976880+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-22T23:50:55.976880+00:00"
+      "confidence": 100
     },
     "ZEO": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-22T23:51:08.716392+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-22T23:51:08.716392+00:00"
+      "confidence": 100
     },
     "QNME": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-22T23:51:21.134989+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-22T23:51:21.134989+00:00"
+      "confidence": 100
     },
     "FTCI": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-22T23:51:56.353443+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-22T23:51:56.353443+00:00"
+      "confidence": 100
     },
     "IPW": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-22T23:52:00.411766+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-22T23:52:00.411766+00:00"
+      "confidence": 100
     },
     "RAIN": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-22T23:52:14.614630+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-22T23:52:14.614630+00:00"
+      "confidence": 100
     },
     "SRFM": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-22T23:52:21.304898+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-22T23:52:21.304898+00:00"
+      "confidence": 100
     },
     "VRME": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-22T23:52:28.893629+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-22T23:52:28.893629+00:00"
+      "confidence": 100
     },
     "ETS": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-22T23:52:44.746464+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-22T23:52:44.746464+00:00"
+      "confidence": 100
     },
     "CISS": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-22T23:53:02.904428+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-22T23:53:02.904428+00:00"
+      "confidence": 100
     },
     "EDRY": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-22T23:53:11.083228+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-22T23:53:11.083228+00:00"
+      "confidence": 100
     },
     "CHNR": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-22T23:55:09.255835+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-22T23:55:09.255835+00:00"
+      "confidence": 100
     },
     "DGX": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-22T23:55:12.686206+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-22T23:55:12.686206+00:00"
+      "confidence": 100
     },
     "ELOG": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-22T23:55:19.020721+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-22T23:55:19.020721+00:00"
+      "confidence": 100
     },
     "FBGL": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-22T23:55:23.600704+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-22T23:55:23.600704+00:00"
+      "confidence": 100
     },
     "GDC": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-22T23:55:29.393360+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-22T23:55:29.393360+00:00"
+      "confidence": 100
     },
     "HUBC": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-22T23:55:45.045875+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-22T23:55:45.045875+00:00"
+      "confidence": 100
     },
     "IBG": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-22T23:55:52.315633+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-22T23:55:52.315633+00:00"
+      "confidence": 100
     },
     "LOBO": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:46:48.384448+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:46:48.384448+00:00"
+      "confidence": 100
     },
     "RCT": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-22T23:56:46.259756+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-22T23:56:46.259756+00:00"
+      "confidence": 100
     },
     "SDA": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-22T23:56:54.461653+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-22T23:56:54.461653+00:00"
+      "confidence": 100
     },
     "TOPS": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-22T23:56:58.185207+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-22T23:56:58.185207+00:00"
+      "confidence": 100
     },
     "WAVE": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-22T23:57:19.951183+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-22T23:57:19.951183+00:00"
+      "confidence": 100
     },
     "EAT": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-22T23:58:42.188193+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-22T23:58:42.188193+00:00"
+      "confidence": 100
     },
     "MET": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-22T23:58:50.176402+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-22T23:58:50.176402+00:00"
+      "confidence": 100
     },
     "PLXS": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-22T23:58:53.923188+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-22T23:58:53.923188+00:00"
+      "confidence": 100
     },
     "WST": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-22T23:58:57.406136+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-22T23:58:57.406136+00:00"
+      "confidence": 100
     },
     "LMT": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:00:45.982544+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:00:45.982544+00:00"
+      "confidence": 100
     },
     "PPA": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:00:50.336435+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:00:50.336435+00:00"
+      "confidence": 100
     },
     "ITA": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:00:53.686639+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:00:53.686639+00:00"
+      "confidence": 100
     },
     "PILBF": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:02:12.790541+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:02:12.790541+00:00"
+      "confidence": 100
     },
     "SETM": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:02:41.852460+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:02:41.852460+00:00"
+      "confidence": 100
     },
     "SQM": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:02:51.294870+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:02:51.294870+00:00"
+      "confidence": 100
     },
     "ASST": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:03:43.182665+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:03:43.182665+00:00"
+      "confidence": 100
     },
     "BLSH": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:03:48.608888+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:03:48.608888+00:00"
+      "confidence": 100
     },
     "ALAB": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:23:53.218182+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:23:53.218182+00:00"
+      "confidence": 100
     },
     "CLDX": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:24:35.300188+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:24:35.300188+00:00"
+      "confidence": 100
     },
     "CMPX": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:24:39.614640+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:24:39.614640+00:00"
+      "confidence": 100
     },
     "XLV": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:08:56.894083+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:08:56.894083+00:00"
+      "confidence": 100
     },
     "XLF": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:25:45.661539+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:25:45.661539+00:00"
+      "confidence": 100
     },
     "XLB": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:25:50.098052+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:25:50.098052+00:00"
+      "confidence": 100
     },
     "XME": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:25:53.908900+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:25:53.908900+00:00"
+      "confidence": 100
     },
     "WFC": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:25:58.200043+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:25:58.200043+00:00"
+      "confidence": 100
     },
     "MS": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:26:31.652748+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:26:31.652748+00:00"
+      "confidence": 100
     },
     "IMCC": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:48:10.379739+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:48:10.379739+00:00"
+      "confidence": 100
     },
     "USDE": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T18:41:14.364631+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T18:41:14.364631+00:00"
+      "confidence": 100
     },
     "ABSI": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T23:16:04.853721+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T23:16:04.853721+00:00"
+      "confidence": 100
     },
     "BLLN": {
+      "ticker": "BLLN",
       "status": "COMPLIANT",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 90,
       "reason": "Permissible business screen passed; debt/market-cap 2.6% <= 30%",
-      "checked_at": "2026-09-23T00:30:51.192273+00:00"
+      "checked_at": "2026-09-23T00:30:51.192273+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 5476999680.0,
+        "total_debt": 143920992.0,
+        "debt_to_market_cap": 0.02627734168500079,
+        "industry": "Diagnostics & Research",
+        "sector": "Healthcare"
+      }
     },
     "SECZ": {
+      "ticker": "SECZ",
       "status": "COMPLIANT",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 90,
       "reason": "Permissible business screen passed; debt/market-cap 4.3% <= 30%",
-      "checked_at": "2026-09-23T00:31:43.584655+00:00"
+      "checked_at": "2026-09-23T00:31:43.584655+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 2122453888.0,
+        "total_debt": 91075848.0,
+        "debt_to_market_cap": 0.04291063684112415,
+        "industry": "Software - Application",
+        "sector": "Technology"
+      }
     },
     "AEHL": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:44:28.163932+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:44:28.163932+00:00"
+      "confidence": 100
     },
     "AXTI": {
+      "ticker": "AXTI",
       "status": "COMPLIANT",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 90,
       "reason": "Permissible business screen passed; debt/market-cap 2.0% <= 30%",
-      "checked_at": "2026-09-23T00:33:55.370561+00:00"
+      "checked_at": "2026-09-23T00:33:55.370561+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 5100940288.0,
+        "total_debt": 101530000.0,
+        "debt_to_market_cap": 0.019904173400902198,
+        "industry": "Semiconductor Equipment & Materials",
+        "sector": "Technology"
+      }
     },
     "BIAF": {
+      "ticker": "BIAF",
       "status": "COMPLIANT",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 85,
       "reason": "Permissible business screen passed; debt/market-cap 27.9% <= 30%",
-      "checked_at": "2026-09-23T00:35:56.140976+00:00"
+      "checked_at": "2026-09-23T00:35:56.140976+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 5139296.0,
+        "total_debt": 1435005.0,
+        "debt_to_market_cap": 0.2792220957889952,
+        "industry": "Diagnostics & Research",
+        "sector": "Healthcare"
+      }
     },
     "MLKN": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:36:19.157108+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:36:19.157108+00:00"
+      "confidence": 100
     },
     "LEN": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:36:23.947163+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:36:23.947163+00:00"
+      "confidence": 100
     },
     "ACN": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:36:39.263368+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:36:39.263368+00:00"
+      "confidence": 100
     },
     "DOGEUSD": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:37:34.056500+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:37:34.056500+00:00"
+      "confidence": 100
     },
     "GEN": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:37:51.950602+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:37:51.950602+00:00"
+      "confidence": 100
     },
     "INTU": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:38:23.904313+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:38:23.904313+00:00"
+      "confidence": 100
     },
     "JPM": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:38:45.799096+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:38:45.799096+00:00"
+      "confidence": 100
     },
     "LPLA": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:38:57.270649+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:38:57.270649+00:00"
+      "confidence": 100
     },
     "MPWR": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:39:06.483408+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:39:06.483408+00:00"
+      "confidence": 100
     },
     "NYT": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:39:16.033717+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:39:16.033717+00:00"
+      "confidence": 100
     },
     "ORLY": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:39:26.663075+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:39:26.663075+00:00"
+      "confidence": 100
     },
     "PLNT": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:39:37.136123+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:39:37.136123+00:00"
+      "confidence": 100
     },
     "RYAN": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:39:49.135254+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:39:49.135254+00:00"
+      "confidence": 100
     },
     "CVX": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:40:29.004448+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:40:29.004448+00:00"
+      "confidence": 100
     },
     "DE": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:40:39.113537+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:40:39.113537+00:00"
+      "confidence": 100
     },
     "EMR": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:40:48.183752+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:40:48.183752+00:00"
+      "confidence": 100
     },
     "ETN": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:40:55.414406+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:40:55.414406+00:00"
+      "confidence": 100
     },
     "FAST": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:41:03.240429+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:41:03.240429+00:00"
+      "confidence": 100
     },
     "NUE": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:41:12.973548+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:41:12.973548+00:00"
+      "confidence": 100
     },
     "PWR": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:41:31.931714+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:41:31.931714+00:00"
+      "confidence": 100
     },
     "ABVX": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:42:09.426294+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:42:09.426294+00:00"
+      "confidence": 100
     },
     "BFRG": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:42:24.142847+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:42:24.142847+00:00"
+      "confidence": 100
     },
     "BMEA": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:42:35.298238+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:42:35.298238+00:00"
+      "confidence": 100
     },
     "BRTX": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:42:44.883298+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:42:44.883298+00:00"
+      "confidence": 100
     },
     "DCOY": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:42:56.543637+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:42:56.543637+00:00"
+      "confidence": 100
     },
     "FLNA": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:43:04.733920+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:43:04.733920+00:00"
+      "confidence": 100
     },
     "INNV": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:43:14.734842+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:43:14.734842+00:00"
+      "confidence": 100
     },
     "JUNS": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:43:24.052131+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:43:24.052131+00:00"
+      "confidence": 100
     },
     "EVER": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:44:16.883561+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:44:16.883561+00:00"
+      "confidence": 100
     },
     "GOAI": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:44:39.139304+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:44:39.139304+00:00"
+      "confidence": 100
     },
     "MDIA": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:44:48.035004+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:44:48.035004+00:00"
+      "confidence": 100
     },
     "QNST": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:44:56.114944+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:44:56.114944+00:00"
+      "confidence": 100
     },
     "QXL": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:45:03.640197+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:45:03.640197+00:00"
+      "confidence": 100
     },
     "SJ": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:45:13.554867+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:45:13.554867+00:00"
+      "confidence": 100
     },
     "STFS": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:45:23.303492+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:45:23.303492+00:00"
+      "confidence": 100
     },
     "TGL": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:45:32.603301+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:45:32.603301+00:00"
+      "confidence": 100
     },
     "TULP": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:45:44.220518+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:45:44.220518+00:00"
+      "confidence": 100
     },
     "WSHP": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:45:54.491233+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:45:54.491233+00:00"
+      "confidence": 100
     },
     "DCX": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:46:09.576292+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:46:09.576292+00:00"
+      "confidence": 100
     },
     "EPSM": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:46:17.985028+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:46:17.985028+00:00"
+      "confidence": 100
     },
     "FLYE": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:46:25.852034+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:46:25.852034+00:00"
+      "confidence": 100
     },
     "KBSX": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:46:34.651534+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:46:34.651534+00:00"
+      "confidence": 100
     },
     "MKDW": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:46:59.183911+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:46:59.183911+00:00"
+      "confidence": 100
     },
     "RIME": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:47:09.744192+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:47:09.744192+00:00"
+      "confidence": 100
     },
     "SMJF": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:47:21.769404+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:47:21.769404+00:00"
+      "confidence": 100
     },
     "VNCE": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:47:30.220145+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:47:30.220145+00:00"
+      "confidence": 100
     },
     "ENLV": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:47:51.973935+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:47:51.973935+00:00"
+      "confidence": 100
     },
     "GELS": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:48:00.095090+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:48:00.095090+00:00"
+      "confidence": 100
     },
     "SLXN": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:48:24.356177+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:48:24.356177+00:00"
+      "confidence": 100
     },
     "XBIO": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:48:45.834037+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:48:45.834037+00:00"
+      "confidence": 100
     },
     "BAND": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:49:43.126040+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:49:43.126040+00:00"
+      "confidence": 100
     },
     "CAL": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:49:51.357541+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:49:51.357541+00:00"
+      "confidence": 100
     },
     "CE": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:50:01.733380+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:50:01.733380+00:00"
+      "confidence": 100
     },
     "CPRI": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:50:11.313271+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:50:11.313271+00:00"
+      "confidence": 100
     },
     "FOSL": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:50:21.668066+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:50:21.668066+00:00"
+      "confidence": 100
     },
     "GLOO": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:50:30.086873+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:50:30.086873+00:00"
+      "confidence": 100
     },
     "GRAB": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:50:44.985447+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:50:44.985447+00:00"
+      "confidence": 100
     },
     "GT": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:50:52.380104+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:50:52.380104+00:00"
+      "confidence": 100
     },
     "SHOP": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:51:18.249239+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:51:18.249239+00:00"
+      "confidence": 100
     },
     "LHSW": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:51:44.276386+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:51:44.276386+00:00"
+      "confidence": 100
     },
     "GEHC": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:52:01.140259+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:52:01.140259+00:00"
+      "confidence": 100
     },
     "NKE": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:52:09.070311+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:52:09.070311+00:00"
+      "confidence": 100
     },
     "RSI": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:52:16.686128+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:52:16.686128+00:00"
+      "confidence": 100
     },
     "WPC": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:52:26.817612+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:52:26.817612+00:00"
+      "confidence": 100
     },
     "CELZ": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:52:41.074552+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:52:41.074552+00:00"
+      "confidence": 100
     },
     "FBLG": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:52:57.204247+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:52:57.204247+00:00"
+      "confidence": 100
     },
     "QNCX": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:53:06.869361+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:53:06.869361+00:00"
+      "confidence": 100
     },
     "TRAW": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:53:25.202517+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:53:25.202517+00:00"
+      "confidence": 100
     },
     "ZJYL": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:53:33.739764+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:53:33.739764+00:00"
+      "confidence": 100
     },
     "ATXG": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:53:46.145498+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:53:46.145498+00:00"
+      "confidence": 100
     },
     "AUC": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:53:53.018627+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:53:53.018627+00:00"
+      "confidence": 100
     },
     "CJMB": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:54:03.146014+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:54:03.146014+00:00"
+      "confidence": 100
     },
     "ILAG": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:54:57.062286+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:54:57.062286+00:00"
+      "confidence": 100
     },
     "NCT": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:55:06.022691+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:55:06.022691+00:00"
+      "confidence": 100
     },
     "SVRN": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:55:17.643491+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:55:17.643491+00:00"
+      "confidence": 100
     },
     "ARBB": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:55:30.963513+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:55:30.963513+00:00"
+      "confidence": 100
     },
     "CANG": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:55:40.242133+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:55:40.242133+00:00"
+      "confidence": 100
     },
     "CYAB": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:55:48.761746+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:55:48.761746+00:00"
+      "confidence": 100
     },
     "DAVA": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:55:55.405805+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:55:55.405805+00:00"
+      "confidence": 100
     },
     "GLE": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:56:03.393779+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:56:03.393779+00:00"
+      "confidence": 100
     },
     "IZM": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:56:10.499157+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:56:10.499157+00:00"
+      "confidence": 100
     },
     "MASK": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:56:19.524700+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:56:19.524700+00:00"
+      "confidence": 100
     },
     "VLN": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:56:27.177411+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:56:27.177411+00:00"
+      "confidence": 100
     },
     "BABA": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:57:18.091129+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:57:18.091129+00:00"
+      "confidence": 100
     },
     "NDRA": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:58:25.589982+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:58:25.589982+00:00"
+      "confidence": 100
     },
     "PFSA": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:58:40.847451+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:58:40.847451+00:00"
+      "confidence": 100
     },
     "FRGT": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:58:53.170398+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:58:53.170398+00:00"
+      "confidence": 100
     },
     "LBGJ": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:59:03.944245+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:59:03.944245+00:00"
+      "confidence": 100
     },
     "TOPP": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:59:13.816231+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:59:13.816231+00:00"
+      "confidence": 100
     },
     "VOYG": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:59:22.431994+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:59:22.431994+00:00"
+      "confidence": 100
     },
     "WXM": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:59:32.569984+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:59:32.569984+00:00"
+      "confidence": 100
     },
     "ZONE": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T00:59:50.786594+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T00:59:50.786594+00:00"
+      "confidence": 100
     },
     "AMAT": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T01:00:03.201478+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T01:00:03.201478+00:00"
+      "confidence": 100
     },
     "NBIS": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T01:00:11.930249+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T01:00:11.930249+00:00"
+      "confidence": 100
     },
     "PLTR": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T01:00:21.918535+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T01:00:21.918535+00:00"
+      "confidence": 100
     },
     "APP": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T01:01:28.244546+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T01:01:28.244546+00:00"
+      "confidence": 100
     },
     "MRVL": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T01:01:36.771893+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T01:01:36.771893+00:00"
+      "confidence": 100
     },
     "STX": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T01:01:44.478105+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T01:01:44.478105+00:00"
+      "confidence": 100
     },
     "XNDU": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T01:01:57.995571+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T01:01:57.995571+00:00"
+      "confidence": 100
     },
     "CGNX": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T01:02:33.051701+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T01:02:33.051701+00:00"
+      "confidence": 100
     },
     "A": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T01:04:20.512831+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T01:04:20.512831+00:00"
+      "confidence": 100
     },
     "TMO": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T01:04:29.500410+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T01:04:29.500410+00:00"
+      "confidence": 100
     },
     "TLX": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T01:05:54.835908+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T01:05:54.835908+00:00"
+      "confidence": 100
     },
     "TPB": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T01:06:02.386302+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T01:06:02.386302+00:00"
+      "confidence": 100
     },
     "CUE": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T01:07:09.055087+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T01:07:09.055087+00:00"
+      "confidence": 100
     },
     "MXL": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T01:07:25.641044+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T01:07:25.641044+00:00"
+      "confidence": 100
     },
     "VGZ": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T01:07:32.975937+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T01:07:32.975937+00:00"
+      "confidence": 100
     },
     "XXI": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T01:07:40.021355+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T01:07:40.021355+00:00"
+      "confidence": 100
     },
     "USAR": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T01:07:51.242460+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T01:07:51.242460+00:00"
+      "confidence": 100
     },
     "DRI": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T01:08:31.714225+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T01:08:31.714225+00:00"
+      "confidence": 100
     },
     "GIS": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T01:08:39.097195+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T01:08:39.097195+00:00"
+      "confidence": 100
     },
     "RKLB": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T01:08:57.206114+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T01:08:57.206114+00:00"
+      "confidence": 100
     },
     "BNO": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-23T01:16:51.564455+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-23T01:16:51.564455+00:00"
+      "confidence": 100
     },
     "IBDN": {
+      "ticker": "IBDN",
       "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 50,
       "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-23T01:17:34.343643+00:00"
+      "checked_at": "2026-09-23T01:17:34.343643+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
     },
     "BEZ": {
+      "ticker": "BEZ",
       "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 50,
       "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-28T16:21:26.016293+00:00"
+      "checked_at": "2026-09-28T16:21:26.016293+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
     },
     "APUS": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T14:22:27.967576+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T14:22:27.967576+00:00"
+      "confidence": 100
     },
     "SRZN": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T14:23:12.723863+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T14:23:12.723863+00:00"
+      "confidence": 100
     },
     "SNDQ": {
+      "ticker": "SNDQ",
       "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 50,
       "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-27T11:02:48.069262+00:00"
+      "checked_at": "2026-09-27T11:02:48.069262+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
     },
     "SOXS": {
+      "ticker": "SOXS",
       "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 50,
       "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-27T12:14:16.457687+00:00"
+      "checked_at": "2026-09-27T12:14:16.457687+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
     },
     "P": {
+      "ticker": "P",
       "status": "COMPLIANT",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 90,
       "reason": "Permissible business screen passed; debt/market-cap 0.5% <= 30%",
-      "checked_at": "2026-09-24T14:14:11.691184+00:00"
+      "checked_at": "2026-09-24T14:14:11.691184+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 42733228032.0,
+        "total_debt": 225307008.0,
+        "debt_to_market_cap": 0.0052724078749979515,
+        "industry": "Computer Hardware",
+        "sector": "Technology"
+      }
     },
     "LNG": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T14:18:00.984740+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T14:18:00.984740+00:00"
+      "confidence": 100
     },
     "E": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T14:18:24.447121+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T14:18:24.447121+00:00"
+      "confidence": 100
     },
     "TGS": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T14:18:49.699102+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T14:18:49.699102+00:00"
+      "confidence": 100
     },
     "VIST": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T14:19:01.443384+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T14:19:01.443384+00:00"
+      "confidence": 100
     },
     "YPF": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T14:19:18.279788+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T14:19:18.279788+00:00"
+      "confidence": 100
     },
     "CD": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T14:19:35.981705+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T14:19:35.981705+00:00"
+      "confidence": 100
     },
     "CRL": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T14:20:09.852825+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T14:20:09.852825+00:00"
+      "confidence": 100
     },
     "GTE": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T14:20:26.950621+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T14:20:26.950621+00:00"
+      "confidence": 100
     },
     "TWST": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T18:43:00.971315+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T18:43:00.971315+00:00"
+      "confidence": 100
     },
     "LU": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T14:20:34.407139+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T14:20:34.407139+00:00"
+      "confidence": 100
     },
     "NBIG": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T15:25:47.632533+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T15:25:47.632533+00:00"
+      "confidence": 100
     },
     "QMCO": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T14:20:44.294556+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T14:20:44.294556+00:00"
+      "confidence": 100
     },
     "NEBX": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T15:26:28.799192+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T15:26:28.799192+00:00"
+      "confidence": 100
     },
     "VSNT": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T14:20:56.841924+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T14:20:56.841924+00:00"
+      "confidence": 100
     },
     "NBIL": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T15:26:18.858703+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T15:26:18.858703+00:00"
+      "confidence": 100
     },
     "ABNB": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T14:21:05.894427+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T14:21:05.894427+00:00"
+      "confidence": 100
     },
     "ARTL": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T14:22:34.681892+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T14:22:34.681892+00:00"
+      "confidence": 100
     },
     "BENF": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T14:23:03.232440+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T14:23:03.232440+00:00"
+      "confidence": 100
     },
     "VSA": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T14:23:21.123546+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T14:23:21.123546+00:00"
+      "confidence": 100
     },
     "AUR": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:06:52.238102+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:06:52.238102+00:00"
+      "confidence": 100
     },
     "CRWV": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T14:24:18.665270+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T14:24:18.665270+00:00"
+      "confidence": 100
     },
     "DG": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T14:24:27.597389+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T14:24:27.597389+00:00"
+      "confidence": 100
     },
     "MCD": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T14:24:41.091955+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T14:24:41.091955+00:00"
+      "confidence": 100
     },
     "OKTA": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T14:24:50.464528+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T14:24:50.464528+00:00"
+      "confidence": 100
     },
     "ROL": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T14:25:08.319069+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T14:25:08.319069+00:00"
+      "confidence": 100
     },
     "BB": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T14:25:33.115830+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T14:25:33.115830+00:00"
+      "confidence": 100
     },
     "FUL": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T14:25:41.576924+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T14:25:41.576924+00:00"
+      "confidence": 100
     },
     "ORCL": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T14:25:52.281372+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T14:25:52.281372+00:00"
+      "confidence": 100
     },
     "SFIX": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:09:24.259923+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:09:24.259923+00:00"
+      "confidence": 100
     },
     "SNX": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:08:15.229343+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:08:15.229343+00:00"
+      "confidence": 100
     },
     "DBGI": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T14:26:24.004100+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T14:26:24.004100+00:00"
+      "confidence": 100
     },
     "LRE": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T14:26:41.496709+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T14:26:41.496709+00:00"
+      "confidence": 100
     },
     "LTCC": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T23:15:27.286666+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T23:15:27.286666+00:00"
+      "confidence": 100
     },
     "MGM": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T14:26:53.949954+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T14:26:53.949954+00:00"
+      "confidence": 100
     },
     "SPHL": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T14:27:18.470135+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T14:27:18.470135+00:00"
+      "confidence": 100
     },
     "ORCZ": {
+      "ticker": "ORCZ",
       "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 50,
       "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-24T15:23:55.934921+00:00"
+      "checked_at": "2026-09-24T15:23:55.934921+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
     },
     "GDDY": {
+      "ticker": "GDDY",
       "status": "COMPLIANT",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 85,
       "reason": "Permissible business screen passed; debt/market-cap 29.9% <= 30%",
-      "checked_at": "2026-09-24T15:24:46.557606+00:00"
+      "checked_at": "2026-09-24T15:24:46.557606+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 12837011456.0,
+        "total_debt": 3841400064.0,
+        "debt_to_market_cap": 0.2992441096720012,
+        "industry": "Software - Infrastructure",
+        "sector": "Technology"
+      }
     },
     "BOIL": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T23:15:12.440706+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T23:15:12.440706+00:00"
+      "confidence": 100
     },
     "TJGC": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:04:42.818940+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:04:42.818940+00:00"
+      "confidence": 100
     },
     "AVX": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T23:14:57.935795+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T23:14:57.935795+00:00"
+      "confidence": 100
     },
     "ALP": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T23:14:42.357878+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T23:14:42.357878+00:00"
+      "confidence": 100
     },
     "IONX": {
+      "ticker": "IONX",
       "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 50,
       "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-27T11:01:02.632812+00:00"
+      "checked_at": "2026-09-27T11:01:02.632812+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
     },
     "WRBY": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:16:51.884877+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:16:51.884877+00:00"
+      "confidence": 100
     },
     "TXXS": {
+      "ticker": "TXXS",
       "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 50,
       "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-24T18:41:30.271471+00:00"
+      "checked_at": "2026-09-24T18:41:30.271471+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
     },
     "OKTG": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T18:42:23.305058+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T18:42:23.305058+00:00"
+      "confidence": 100
     },
     "NTRB": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T18:42:38.235826+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T18:42:38.235826+00:00"
+      "confidence": 100
     },
     "PLU": {
+      "ticker": "PLU",
       "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 50,
       "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-24T18:41:36.357662+00:00"
+      "checked_at": "2026-09-24T18:41:36.357662+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
     },
     "CDNA": {
+      "ticker": "CDNA",
       "status": "COMPLIANT",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 90,
       "reason": "Permissible business screen passed; debt/market-cap 0.6% <= 30%",
-      "checked_at": "2026-09-24T18:41:42.153709+00:00"
+      "checked_at": "2026-09-24T18:41:42.153709+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 3247357184.0,
+        "total_debt": 19247000.0,
+        "debt_to_market_cap": 0.005926973507820937,
+        "industry": "Diagnostics & Research",
+        "sector": "Healthcare"
+      }
     },
     "TSSI": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T18:43:04.135265+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T18:43:04.135265+00:00"
+      "confidence": 100
     },
     "NXTC": {
+      "ticker": "NXTC",
       "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 50,
       "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-24T18:47:27.735199+00:00"
+      "checked_at": "2026-09-24T18:47:27.735199+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 24992380.0,
+        "total_debt": 4666000.0,
+        "debt_to_market_cap": 0.18669690521671006,
+        "industry": "Biotechnology",
+        "sector": "Healthcare"
+      }
     },
     "TXG": {
+      "ticker": "TXG",
       "status": "COMPLIANT",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 90,
       "reason": "Permissible business screen passed; debt/market-cap 0.7% <= 30%",
-      "checked_at": "2026-09-24T19:05:07.365327+00:00"
+      "checked_at": "2026-09-24T19:05:07.365327+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 11061067776.0,
+        "total_debt": 78796000.0,
+        "debt_to_market_cap": 0.007123724544114031,
+        "industry": "Medical Devices",
+        "sector": "Healthcare"
+      }
     },
     "TEMT": {
+      "ticker": "TEMT",
       "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 50,
       "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-24T19:29:07.397512+00:00"
+      "checked_at": "2026-09-24T19:29:07.397512+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
     },
     "KRSA": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T23:15:19.470159+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T23:15:19.470159+00:00"
+      "confidence": 100
     },
     "FENY": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:06:04.261296+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:06:04.261296+00:00"
+      "confidence": 100
     },
     "IYE": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:06:12.792334+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:06:12.792334+00:00"
+      "confidence": 100
     },
     "SLB": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:06:21.602372+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:06:21.602372+00:00"
+      "confidence": 100
     },
     "AMLP": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:06:44.061574+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:06:44.061574+00:00"
+      "confidence": 100
     },
     "ENPH": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:07:01.799014+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:07:01.799014+00:00"
+      "confidence": 100
     },
     "FSLR": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:07:15.555902+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:07:15.555902+00:00"
+      "confidence": 100
     },
     "IBB": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:07:32.315353+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:07:32.315353+00:00"
+      "confidence": 100
     },
     "LLY": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:07:40.949095+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:07:40.949095+00:00"
+      "confidence": 100
     },
     "SEDG": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:08:07.587388+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:08:07.587388+00:00"
+      "confidence": 100
     },
     "VLO": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:08:23.935444+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:08:23.935444+00:00"
+      "confidence": 100
     },
     "XRT": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:08:38.779935+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:08:38.779935+00:00"
+      "confidence": 100
     },
     "ACAD": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:09:13.934965+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:09:13.934965+00:00"
+      "confidence": 100
     },
     "APO": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:09:51.997429+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:09:51.997429+00:00"
+      "confidence": 100
     },
     "MSTP": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:10:28.341578+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:10:28.341578+00:00"
+      "confidence": 100
     },
     "GE": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:10:40.033886+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:10:40.033886+00:00"
+      "confidence": 100
     },
     "GOLY": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:10:47.943774+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:10:47.943774+00:00"
+      "confidence": 100
     },
     "SGOV": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:11:08.117253+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:11:08.117253+00:00"
+      "confidence": 100
     },
     "TLT": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:11:08.998961+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:11:08.998961+00:00"
+      "confidence": 100
     },
     "KTOS": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:11:35.289161+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:11:35.289161+00:00"
+      "confidence": 100
     },
     "VIS": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:11:45.548458+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:11:45.548458+00:00"
+      "confidence": 100
     },
     "VCR": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:12:03.712455+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:12:03.712455+00:00"
+      "confidence": 100
     },
     "BLK": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:12:15.999808+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:12:15.999808+00:00"
+      "confidence": 100
     },
     "BNY": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:12:23.919914+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:12:23.919914+00:00"
+      "confidence": 100
     },
     "CRCL": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:12:31.938177+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:12:31.938177+00:00"
+      "confidence": 100
     },
     "GS": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:12:37.262032+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:12:37.262032+00:00"
+      "confidence": 100
     },
     "NTRS": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:12:46.234375+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:12:46.234375+00:00"
+      "confidence": 100
     },
     "STT": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:12:51.940620+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:12:51.940620+00:00"
+      "confidence": 100
     },
     "FXI": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:13:10.119421+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:13:10.119421+00:00"
+      "confidence": 100
     },
     "EWT": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:13:24.696850+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:13:24.696850+00:00"
+      "confidence": 100
     },
     "BA": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:13:35.276175+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:13:35.276175+00:00"
+      "confidence": 100
     },
     "CRAK": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:13:47.792041+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:13:47.792041+00:00"
+      "confidence": 100
     },
     "VDE": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:14:04.227329+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:14:04.227329+00:00"
+      "confidence": 100
     },
     "AVGO": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:14:12.919078+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:14:12.919078+00:00"
+      "confidence": 100
     },
     "TSM": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:14:22.161579+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:14:22.161579+00:00"
+      "confidence": 100
     },
     "CAT": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:14:35.805985+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:14:35.805985+00:00"
+      "confidence": 100
     },
     "ECL": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:14:43.781240+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:14:43.781240+00:00"
+      "confidence": 100
     },
     "JNJ": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:14:50.354844+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:14:50.354844+00:00"
+      "confidence": 100
     },
     "NEM": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:15:00.317867+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:15:00.317867+00:00"
+      "confidence": 100
     },
     "RTX": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:15:12.105620+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:15:12.105620+00:00"
+      "confidence": 100
     },
     "SHW": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:15:21.022947+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:15:21.022947+00:00"
+      "confidence": 100
     },
     "UNP": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:15:27.975220+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:15:27.975220+00:00"
+      "confidence": 100
     },
     "XLRE": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:15:37.706841+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:15:37.706841+00:00"
+      "confidence": 100
     },
     "AIFA": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:15:55.994405+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:15:55.994405+00:00"
+      "confidence": 100
     },
     "GIL": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:16:05.771049+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:16:05.771049+00:00"
+      "confidence": 100
     },
     "INEO": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:16:13.953906+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:16:13.953906+00:00"
+      "confidence": 100
     },
     "RAVE": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:16:20.443832+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:16:20.443832+00:00"
+      "confidence": 100
     },
     "UXIN": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:16:36.287977+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:16:36.287977+00:00"
+      "confidence": 100
     },
     "YMAT": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:16:59.075974+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:16:59.075974+00:00"
+      "confidence": 100
     },
     "IREN": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T20:17:08.008668+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T20:17:08.008668+00:00"
+      "confidence": 100
     },
     "ABBNY": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T23:44:21.077639+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T23:44:21.077639+00:00"
+      "confidence": 100
     },
     "SFTBY": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-24T23:44:28.242803+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-24T23:44:28.242803+00:00"
+      "confidence": 100
     },
     "INLF": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-25T22:04:11.968950+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-25T22:04:11.968950+00:00"
+      "confidence": 100
     },
     "AESI": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:37:01.055839+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:37:01.055839+00:00"
+      "confidence": 100
     },
     "RETO": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-26T01:38:10.780826+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-26T01:38:10.780826+00:00"
+      "confidence": 100
     },
     "BEX": {
+      "ticker": "BEX",
       "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 50,
       "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-28T08:54:48.368116+00:00"
+      "checked_at": "2026-09-28T08:54:48.368116+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
     },
     "IREZ": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T12:18:58.959873+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T12:18:58.959873+00:00"
+      "confidence": 100
     },
     "YDES": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:59:44.798127+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:59:44.798127+00:00"
+      "confidence": 100
     },
     "KOLD": {
+      "ticker": "KOLD",
       "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 50,
       "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-25T14:40:08.365356+00:00"
+      "checked_at": "2026-09-25T14:40:08.365356+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
     },
     "MAAS": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-25T22:00:09.310673+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-25T22:00:09.310673+00:00"
+      "confidence": 100
     },
     "MSGY": {
+      "ticker": "MSGY",
       "status": "COMPLIANT",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 90,
       "reason": "Permissible business screen passed; debt/market-cap 1.2% <= 30%",
-      "checked_at": "2026-09-25T15:09:09.387395+00:00"
+      "checked_at": "2026-09-25T15:09:09.387395+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 12611768.0,
+        "total_debt": 153846.0,
+        "debt_to_market_cap": 0.012198606888423573,
+        "industry": "Engineering & Construction",
+        "sector": "Industrials"
+      }
     },
     "WHLR": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:48:03.283260+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:48:03.283260+00:00"
+      "confidence": 100
     },
     "BEG": {
+      "ticker": "BEG",
       "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 50,
       "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-28T08:54:52.202522+00:00"
+      "checked_at": "2026-09-28T08:54:52.202522+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
     },
     "EGP": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-25T15:59:43.123561+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-25T15:59:43.123561+00:00"
+      "confidence": 100
     },
     "PPLI": {
+      "ticker": "PPLI",
       "status": "NON_COMPLIANT",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 99,
       "reason": "Clearly prohibited primary activity detected: alcohol",
-      "checked_at": "2026-09-25T16:02:08.383786+00:00"
+      "checked_at": "2026-09-25T16:02:08.383786+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      }
     },
     "DLLL": {
+      "ticker": "DLLL",
       "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 50,
       "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-28T08:55:16.258525+00:00"
+      "checked_at": "2026-09-28T08:55:16.258525+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
     },
     "BE": {
+      "ticker": "BE",
       "status": "COMPLIANT",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 90,
       "reason": "Permissible business screen passed; debt/market-cap 3.3% <= 30%",
-      "checked_at": "2026-09-25T16:20:08.388119+00:00"
+      "checked_at": "2026-09-25T16:20:08.388119+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 85624995840.0,
+        "total_debt": 2815023104.0,
+        "debt_to_market_cap": 0.03287618383375095,
+        "industry": "Electrical Equipment & Parts",
+        "sector": "Industrials"
+      }
     },
     "GENI": {
+      "ticker": "GENI",
       "status": "NON_COMPLIANT",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 99,
       "reason": "Clearly prohibited primary activity detected: gambling",
-      "checked_at": "2026-09-25T16:20:09.366155+00:00"
+      "checked_at": "2026-09-25T16:20:09.366155+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      }
     },
     "WNC": {
+      "ticker": "WNC",
       "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 70,
       "reason": "Debt/market-cap 102.2% exceeds the configured 30% screen; full Sharia review required",
-      "checked_at": "2026-09-25T16:37:09.372524+00:00"
+      "checked_at": "2026-09-25T16:37:09.372524+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 533249600.0,
+        "total_debt": 545110016.0,
+        "debt_to_market_cap": 1.0222417719581975,
+        "industry": "Farm & Heavy Construction Machinery",
+        "sector": "Industrials"
+      }
     },
     "MIRM": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-25T17:25:36.135317+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-25T17:25:36.135317+00:00"
+      "confidence": 100
     },
     "AKAL": {
+      "ticker": "AKAL",
       "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 50,
       "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-27T10:10:56.318264+00:00"
+      "checked_at": "2026-09-27T10:10:56.318264+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
     },
     "FLYT": {
+      "ticker": "FLYT",
       "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 50,
       "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-25T18:07:54.975154+00:00"
+      "checked_at": "2026-09-25T18:07:54.975154+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
     },
     "CRDU": {
+      "ticker": "CRDU",
       "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 50,
       "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-28T08:54:45.717455+00:00"
+      "checked_at": "2026-09-28T08:54:45.717455+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
     },
     "AEHG": {
+      "ticker": "AEHG",
       "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 50,
       "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-28T08:57:10.554871+00:00"
+      "checked_at": "2026-09-28T08:57:10.554871+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
     },
     "TSUI": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:48:39.047396+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:48:39.047396+00:00"
+      "confidence": 100
     },
     "INDS": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-25T23:34:26.866919+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-25T23:34:26.866919+00:00"
+      "confidence": 100
     },
     "WETO": {
+      "ticker": "WETO",
       "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 70,
       "reason": "Debt/market-cap 1297.4% exceeds the configured 30% screen; full Sharia review required",
-      "checked_at": "2026-09-28T14:12:25.244305+00:00"
+      "checked_at": "2026-09-28T14:12:25.244305+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 1778371.0,
+        "total_debt": 23072604.0,
+        "debt_to_market_cap": 12.974010484876327,
+        "industry": "Software - Infrastructure",
+        "sector": "Technology"
+      }
     },
     "TEST": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "checked_at": "2026-09-28T21:22:29.914144+00:00",
+      "confidence": 100,
       "reason": "Owner manual classification",
-      "confidence": 100
+      "checked_at": "2026-09-28T21:22:29.914144+00:00"
     },
     "AVAXUSD": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:27:00.600544+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:27:00.600544+00:00"
+      "confidence": 100
     },
     "BTC": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:27:57.734824+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:27:57.734824+00:00"
+      "confidence": 100
     },
     "GLXY": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:28:08.848555+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:28:08.848555+00:00"
+      "confidence": 100
     },
     "IYR": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:28:23.737143+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:28:23.737143+00:00"
+      "confidence": 100
     },
     "MAC": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:28:29.683024+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:28:29.683024+00:00"
+      "confidence": 100
     },
     "REZ": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:28:36.009848+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:28:36.009848+00:00"
+      "confidence": 100
     },
     "VNQ": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:28:42.791699+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:28:42.791699+00:00"
+      "confidence": 100
     },
     "WELL": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:28:50.262906+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:28:50.262906+00:00"
+      "confidence": 100
     },
     "DELL": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:29:05.984949+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:29:05.984949+00:00"
+      "confidence": 100
     },
     "DKS": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:29:17.392542+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:29:17.392542+00:00"
+      "confidence": 100
     },
     "MOS": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:29:24.850635+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:29:24.850635+00:00"
+      "confidence": 100
     },
     "NET": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:29:35.786233+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:29:35.786233+00:00"
+      "confidence": 100
     },
     "SCHL": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:29:51.350653+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:29:51.350653+00:00"
+      "confidence": 100
     },
     "TBN": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:29:59.696204+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:29:59.696204+00:00"
+      "confidence": 100
     },
     "FFBC": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:30:17.938337+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:30:17.938337+00:00"
+      "confidence": 100
     },
     "HUM": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:30:24.575116+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:30:24.575116+00:00"
+      "confidence": 100
     },
     "LKFT": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:30:31.499837+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:30:31.499837+00:00"
+      "confidence": 100
     },
     "MMM": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:30:37.486637+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:30:37.486637+00:00"
+      "confidence": 100
     },
     "SNPS": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:30:45.820738+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:30:45.820738+00:00"
+      "confidence": 100
     },
     "STEM": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:31:00.673302+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:31:00.673302+00:00"
+      "confidence": 100
     },
     "IAU": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:31:08.047836+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:31:08.047836+00:00"
+      "confidence": 100
     },
     "GLD": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:31:16.250240+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:31:16.250240+00:00"
+      "confidence": 100
     },
     "FLY": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:32:02.892431+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:32:02.892431+00:00"
+      "confidence": 100
     },
     "EIS": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:32:25.925823+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:32:25.925823+00:00"
+      "confidence": 100
     },
     "EZU": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:32:31.982146+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:32:31.982146+00:00"
+      "confidence": 100
     },
     "ISRA": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:32:42.428831+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:32:42.428831+00:00"
+      "confidence": 100
     },
     "KSA": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:32:53.156134+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:32:53.156134+00:00"
+      "confidence": 100
     },
     "LNGX": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:33:00.833483+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:33:00.833483+00:00"
+      "confidence": 100
     },
     "UAE": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:33:07.239129+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:33:07.239129+00:00"
+      "confidence": 100
     },
     "UGA": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:33:12.900527+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:33:12.900527+00:00"
+      "confidence": 100
     },
     "UNG": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:33:20.786627+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:33:20.786627+00:00"
+      "confidence": 100
     },
     "VGK": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:33:26.810598+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:33:26.810598+00:00"
+      "confidence": 100
     },
     "BREW": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:33:40.180238+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:33:40.180238+00:00"
+      "confidence": 100
     },
     "CGCV": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:33:49.063321+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:33:49.063321+00:00"
+      "confidence": 100
     },
     "SBUX": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:33:56.785741+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:33:56.785741+00:00"
+      "confidence": 100
     },
     "EWJ": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:34:11.882009+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:34:11.882009+00:00"
+      "confidence": 100
     },
     "EWC": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:34:28.947021+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:34:28.947021+00:00"
+      "confidence": 100
     },
     "EWW": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:34:34.502010+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:34:34.502010+00:00"
+      "confidence": 100
     },
     "ARTY": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:34:50.674284+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:34:50.674284+00:00"
+      "confidence": 100
     },
     "ENTR": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:34:58.967613+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:34:58.967613+00:00"
+      "confidence": 100
     },
     "HPE": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:35:05.822244+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:35:05.822244+00:00"
+      "confidence": 100
     },
     "IDGT": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:35:13.690973+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:35:13.690973+00:00"
+      "confidence": 100
     },
     "SMCI": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:35:22.961648+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:35:22.961648+00:00"
+      "confidence": 100
     },
     "SLV": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:35:54.464405+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:35:54.464405+00:00"
+      "confidence": 100
     },
     "LBTYA": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:36:10.149515+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:36:10.149515+00:00"
+      "confidence": 100
     },
     "CMCSA": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:36:22.555364+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:36:22.555364+00:00"
+      "confidence": 100
     },
     "MRK": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:36:29.108454+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:36:29.108454+00:00"
+      "confidence": 100
     },
     "IEF": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:36:46.457392+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:36:46.457392+00:00"
+      "confidence": 100
     },
     "MGLD": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:37:09.932917+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:37:09.932917+00:00"
+      "confidence": 100
     },
     "TRUG": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:37:21.699502+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:37:21.699502+00:00"
+      "confidence": 100
     },
     "ZS": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:37:28.869586+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:37:28.869586+00:00"
+      "confidence": 100
     },
     "GNRC": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:37:47.876927+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:37:47.876927+00:00"
+      "confidence": 100
     },
     "CBRS": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:38:36.897216+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:38:36.897216+00:00"
+      "confidence": 100
     },
     "BTOC": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:38:52.144956+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:38:52.144956+00:00"
+      "confidence": 100
     },
     "CRGO": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:39:02.867485+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:39:02.867485+00:00"
+      "confidence": 100
     },
     "GCDT": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:39:11.881243+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:39:11.881243+00:00"
+      "confidence": 100
     },
     "GLXG": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:39:18.342217+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:39:18.342217+00:00"
+      "confidence": 100
     },
     "GWH": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:39:27.323571+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:39:27.323571+00:00"
+      "confidence": 100
     },
     "INCY": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:39:42.557732+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:39:42.557732+00:00"
+      "confidence": 100
     },
     "PYPL": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:39:57.033958+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:39:57.033958+00:00"
+      "confidence": 100
     },
     "ABBV": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:40:04.435866+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:40:04.435866+00:00"
+      "confidence": 100
     },
     "ABUS": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:40:11.289580+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:40:11.289580+00:00"
+      "confidence": 100
     },
     "AMGN": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:40:19.087095+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:40:19.087095+00:00"
+      "confidence": 100
     },
     "BIOA": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:40:25.502623+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:40:25.502623+00:00"
+      "confidence": 100
     },
     "BETA": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:40:37.095018+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:40:37.095018+00:00"
+      "confidence": 100
     },
     "DAL": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:40:43.090388+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:40:43.090388+00:00"
+      "confidence": 100
     },
     "GD": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:40:49.704713+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:40:49.704713+00:00"
+      "confidence": 100
     },
     "MOD": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:40:57.426477+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:40:57.426477+00:00"
+      "confidence": 100
     },
     "VRT": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:41:04.055723+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:41:04.055723+00:00"
+      "confidence": 100
     },
     "CORT": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:41:13.213712+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:41:13.213712+00:00"
+      "confidence": 100
     },
     "KEYS": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:41:27.724315+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:41:27.724315+00:00"
+      "confidence": 100
     },
     "NOW": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:41:34.089675+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:41:34.089675+00:00"
+      "confidence": 100
     },
     "CRMT": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:41:51.118120+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:41:51.118120+00:00"
+      "confidence": 100
     },
     "EEIQ": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:42:01.287792+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:42:01.287792+00:00"
+      "confidence": 100
     },
     "EZGO": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:42:09.958443+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:42:09.958443+00:00"
+      "confidence": 100
     },
     "FFAI": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:42:18.120955+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:42:18.120955+00:00"
+      "confidence": 100
     },
     "KDK": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:42:25.231927+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:42:25.231927+00:00"
+      "confidence": 100
     },
     "LGCY": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:42:36.463278+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:42:36.463278+00:00"
+      "confidence": 100
     },
     "NWTG": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:42:43.788953+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:42:43.788953+00:00"
+      "confidence": 100
     },
     "ACTU": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:42:53.464497+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:42:53.464497+00:00"
+      "confidence": 100
     },
     "AIFF": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:43:00.373891+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:43:00.373891+00:00"
+      "confidence": 100
     },
     "GCTK": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:43:07.852866+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:43:07.852866+00:00"
+      "confidence": 100
     },
     "LONA": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:43:16.013080+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:43:16.013080+00:00"
+      "confidence": 100
     },
     "NXGL": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:43:24.278200+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:43:24.278200+00:00"
+      "confidence": 100
     },
     "NYXH": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:43:37.810167+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:43:37.810167+00:00"
+      "confidence": 100
     },
     "ONCO": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:43:54.198179+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:43:54.198179+00:00"
+      "confidence": 100
     },
     "UCAR": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:44:24.852091+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:44:24.852091+00:00"
+      "confidence": 100
     },
     "SDEV": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:44:43.929800+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:44:43.929800+00:00"
+      "confidence": 100
     },
     "PANW": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:45:04.039430+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:45:04.039430+00:00"
+      "confidence": 100
     },
     "FOFO": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:45:18.397311+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:45:18.397311+00:00"
+      "confidence": 100
     },
     "QH": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:45:29.595455+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:45:29.595455+00:00"
+      "confidence": 100
     },
     "SGLY": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:45:42.280140+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:45:42.280140+00:00"
+      "confidence": 100
     },
     "SUGP": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:45:54.245727+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:45:54.245727+00:00"
+      "confidence": 100
     },
     "VWAV": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:46:12.266595+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:46:12.266595+00:00"
+      "confidence": 100
     },
     "YOUL": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:46:24.521345+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:46:24.521345+00:00"
+      "confidence": 100
     },
     "DTST": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:46:34.789987+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:46:34.789987+00:00"
+      "confidence": 100
     },
     "ELTK": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:46:43.756552+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:46:43.756552+00:00"
+      "confidence": 100
     },
     "GAUZ": {
       "status": "NON_COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:46:53.335453+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:46:53.335453+00:00"
+      "confidence": 100
     },
     "GENVR": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:47:19.781374+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:47:19.781374+00:00"
+      "confidence": 100
     },
     "PARA": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:47:25.905757+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:47:25.905757+00:00"
+      "confidence": 100
     },
     "REFR": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T10:47:35.841732+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T10:47:35.841732+00:00"
+      "confidence": 100
     },
     "WDC": {
       "status": "COMPLIANT",
       "source": "OWNER_OVERRIDE",
-      "confidence": 100,
+      "checked_at": "2026-09-27T12:17:21.387243+00:00",
       "reason": "Owner manual classification",
-      "checked_at": "2026-09-27T12:17:21.387243+00:00"
+      "confidence": 100
     },
     "CLRO": {
+      "ticker": "CLRO",
       "status": "COMPLIANT",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 90,
       "reason": "Permissible business screen passed; debt/market-cap 5.4% <= 30%",
-      "checked_at": "2026-09-28T12:23:26.145727+00:00"
+      "checked_at": "2026-09-28T12:23:26.145727+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 9230172.0,
+        "total_debt": 500000.0,
+        "debt_to_market_cap": 0.05417017147676121,
+        "industry": "Communication Equipment",
+        "sector": "Technology"
+      }
     },
     "KOD": {
+      "ticker": "KOD",
       "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 50,
       "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-28T13:37:26.403792+00:00"
+      "checked_at": "2026-09-28T13:37:26.403792+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 4550929408.0,
+        "total_debt": 52756000.0,
+        "debt_to_market_cap": 0.011592357356117442,
+        "industry": "Biotechnology",
+        "sector": "Healthcare"
+      }
     },
     "JDST": {
+      "ticker": "JDST",
       "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 50,
       "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-28T13:38:25.363222+00:00"
+      "checked_at": "2026-09-28T13:38:25.363222+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
     },
     "AMPX": {
+      "ticker": "AMPX",
       "status": "COMPLIANT",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 90,
       "reason": "Permissible business screen passed; debt/market-cap 0.4% <= 30%",
-      "checked_at": "2026-09-28T13:40:25.300355+00:00"
+      "checked_at": "2026-09-28T13:40:25.300355+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 1558680320.0,
+        "total_debt": 6377000.0,
+        "debt_to_market_cap": 0.0040912815271832,
+        "industry": "Electrical Equipment & Parts",
+        "sector": "Industrials"
+      }
     },
     "LFCR": {
+      "ticker": "LFCR",
       "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 70,
       "reason": "Debt/market-cap 63.6% exceeds the configured 30% screen; full Sharia review required",
-      "checked_at": "2026-09-28T14:06:26.012252+00:00"
+      "checked_at": "2026-09-28T14:06:26.012252+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 246044896.0,
+        "total_debt": 156375008.0,
+        "debt_to_market_cap": 0.6355547728980324,
+        "industry": "Drug Manufacturers - Specialty & Generic",
+        "sector": "Healthcare"
+      }
     },
     "SCYX": {
+      "ticker": "SCYX",
       "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 50,
       "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-28T14:24:25.035153+00:00"
+      "checked_at": "2026-09-28T14:24:25.035153+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 49350060.0,
+        "total_debt": 1945000.0,
+        "debt_to_market_cap": 0.039412312771250936,
+        "industry": "Drug Manufacturers - Specialty & Generic",
+        "sector": "Healthcare"
+      }
     },
     "SKDD": {
+      "ticker": "SKDD",
       "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 50,
       "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-28T14:47:26.019535+00:00"
+      "checked_at": "2026-09-28T14:47:26.019535+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
     },
     "AAOZ": {
+      "ticker": "AAOZ",
       "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 50,
       "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-28T14:53:25.015858+00:00"
+      "checked_at": "2026-09-28T14:53:25.015858+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
     },
     "ELAB": {
+      "ticker": "ELAB",
       "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 70,
       "reason": "Debt/market-cap 345.5% exceeds the configured 30% screen; full Sharia review required",
-      "checked_at": "2026-09-28T14:59:26.009396+00:00"
+      "checked_at": "2026-09-28T14:59:26.009396+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 4120757.0,
+        "total_debt": 14237784.0,
+        "debt_to_market_cap": 3.455137975862202,
+        "industry": "Biotechnology",
+        "sector": "Healthcare"
+      }
     },
     "TMCR": {
+      "ticker": "TMCR",
       "status": "COMPLIANT",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 90,
       "reason": "Permissible business screen passed; debt/market-cap 13.1% <= 30%",
-      "checked_at": "2026-09-28T16:16:26.025834+00:00"
+      "checked_at": "2026-09-28T16:16:26.025834+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 323587328.0,
+        "total_debt": 42293712.0,
+        "debt_to_market_cap": 0.13070262133379956,
+        "industry": "Other Industrial Metals & Mining",
+        "sector": "Basic Materials"
+      }
     },
     "AGEN": {
+      "ticker": "AGEN",
       "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 50,
       "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-28T17:15:26.016522+00:00"
+      "checked_at": "2026-09-28T17:15:26.016522+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 426780096.0,
+        "total_debt": 40708000.0,
+        "debt_to_market_cap": 0.09538401715903827,
+        "industry": "Biotechnology",
+        "sector": "Healthcare"
+      }
     },
     "GLNK": {
+      "ticker": "GLNK",
       "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 50,
       "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-28T17:21:26.032178+00:00"
+      "checked_at": "2026-09-28T17:21:26.032178+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
     },
     "GDXD": {
+      "ticker": "GDXD",
       "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 50,
       "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-28T17:26:47.478997+00:00"
+      "checked_at": "2026-09-28T17:26:47.478997+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
     },
     "AXTQ": {
+      "ticker": "AXTQ",
       "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 50,
       "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-28T17:26:52.484327+00:00"
+      "checked_at": "2026-09-28T17:26:52.484327+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
     },
     "ADRX": {
+      "ticker": "ADRX",
       "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 50,
       "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-28T17:44:26.021918+00:00"
+      "checked_at": "2026-09-28T17:44:26.021918+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": 6898000.0,
+        "debt_to_market_cap": null,
+        "industry": "Biotechnology",
+        "sector": "Healthcare"
+      }
     },
     "MSB": {
+      "ticker": "MSB",
       "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 50,
       "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-28T18:31:25.995588+00:00"
+      "checked_at": "2026-09-28T18:31:25.995588+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 282670624.0,
+        "total_debt": null,
+        "debt_to_market_cap": 0.0,
+        "industry": "Steel",
+        "sector": "Basic Materials"
+      }
     },
     "ABCL": {
+      "ticker": "ABCL",
       "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 50,
       "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-28T18:54:26.024021+00:00"
+      "checked_at": "2026-09-28T18:54:26.024021+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 4557726208.0,
+        "total_debt": 135616992.0,
+        "debt_to_market_cap": 0.029755405614746395,
+        "industry": "Biotechnology",
+        "sector": "Healthcare"
+      }
     },
     "ZSL": {
+      "ticker": "ZSL",
       "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 50,
       "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-28T19:12:26.044508+00:00"
+      "checked_at": "2026-09-28T19:12:26.044508+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
     },
     "METQ": {
+      "ticker": "METQ",
       "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 50,
       "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-28T19:58:26.018265+00:00"
+      "checked_at": "2026-09-28T19:58:26.018265+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
     },
     "RGTZ": {
+      "ticker": "RGTZ",
       "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 50,
       "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-28T19:59:26.025202+00:00"
+      "checked_at": "2026-09-28T19:59:26.025202+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
     },
     "NVTS": {
+      "ticker": "NVTS",
       "status": "COMPLIANT",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 90,
       "reason": "Permissible business screen passed; debt/market-cap 0.2% <= 30%",
-      "checked_at": "2026-09-28T20:22:26.009750+00:00"
+      "checked_at": "2026-09-28T20:22:26.009750+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 3079775488.0,
+        "total_debt": 5136000.0,
+        "debt_to_market_cap": 0.0016676540286822362,
+        "industry": "Semiconductors",
+        "sector": "Technology"
+      }
+    },
+    "DUST": {
+      "ticker": "DUST",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-28T21:49:20.583423+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
+    },
+    "TVTX": {
+      "ticker": "TVTX",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-28T22:59:26.046474+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 5803654656.0,
+        "total_debt": 616905024.0,
+        "debt_to_market_cap": 0.10629595669725528,
+        "industry": "Biotechnology",
+        "sector": "Healthcare"
+      }
+    },
+    "SQQQ": {
+      "ticker": "SQQQ",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-28T22:59:27.193817+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
+    },
+    "WAY": {
+      "ticker": "WAY",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 70,
+      "reason": "Debt/market-cap 30.0% exceeds the configured 30% screen; full Sharia review required",
+      "checked_at": "2026-09-28T22:59:27.930908+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 4935604224.0,
+        "total_debt": 1481720064.0,
+        "debt_to_market_cap": 0.30021047003626194,
+        "industry": "Health Information Services",
+        "sector": "Healthcare"
+      }
     }
   }
 }
