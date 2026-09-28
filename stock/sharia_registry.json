@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-28T23:00:28.564157+00:00",
+  "updated_at": "2026-09-28T23:01:28.646726+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -4976,7 +4976,7 @@
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 50,
       "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-28T23:00:26.924662+00:00",
+      "checked_at": "2026-09-28T23:00:28.439248+00:00",
       "rules": {
         "debt_to_market_cap_max": 0.3,
         "prohibited_income_max": 0.05
@@ -4990,12 +4990,57 @@
       }
     },
     "SSPC": {
-      "ticker": "SSPC",
       "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 50,
       "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-28T23:00:27.404736+00:00",
+      "checked_at": "2026-09-28T23:00:27.404736+00:00"
+    },
+    "ULH": {
+      "ticker": "ULH",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 70,
+      "reason": "Debt/market-cap 182.8% exceeds the configured 30% screen; full Sharia review required",
+      "checked_at": "2026-09-28T23:01:27.724490+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 458799776.0,
+        "total_debt": 838521984.0,
+        "debt_to_market_cap": 1.827642531368629,
+        "industry": "Trucking",
+        "sector": "Industrials"
+      }
+    },
+    "TRAX": {
+      "ticker": "TRAX",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-28T23:00:27.023927+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 1309356800.0,
+        "total_debt": 4333000.0,
+        "debt_to_market_cap": 0.003309258408403271,
+        "industry": "Biotechnology",
+        "sector": "Healthcare"
+      }
+    },
+    "TSLQ": {
+      "ticker": "TSLQ",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-28T23:00:28.887554+00:00",
       "rules": {
         "debt_to_market_cap_max": 0.3,
         "prohibited_income_max": 0.05
@@ -5008,23 +5053,118 @@
         "sector": null
       }
     },
-    "ULH": {
-      "ticker": "ULH",
+    "SPCQ": {
+      "ticker": "SPCQ",
       "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
-      "confidence": 70,
-      "reason": "Debt/market-cap 182.8% exceeds the configured 30% screen; full Sharia review required",
-      "checked_at": "2026-09-28T23:00:27.885232+00:00",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-28T23:00:29.364595+00:00",
       "rules": {
         "debt_to_market_cap_max": 0.3,
         "prohibited_income_max": 0.05
       },
       "metrics": {
-        "market_cap": 458799776.0,
-        "total_debt": 838521984.0,
-        "debt_to_market_cap": 1.827642531368629,
-        "industry": "Trucking",
-        "sector": "Industrials"
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
+    },
+    "WW": {
+      "ticker": "WW",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 70,
+      "reason": "Debt/market-cap 283.7% exceeds the configured 30% screen; full Sharia review required",
+      "checked_at": "2026-09-28T23:00:29.835536+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 150281360.0,
+        "total_debt": 426311008.0,
+        "debt_to_market_cap": 2.836752395639752,
+        "industry": "Medical Care Facilities",
+        "sector": "Healthcare"
+      }
+    },
+    "STTK": {
+      "ticker": "STTK",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-28T23:00:34.030714+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 645335744.0,
+        "total_debt": 2674000.0,
+        "debt_to_market_cap": 0.004143579562826757,
+        "industry": "Biotechnology",
+        "sector": "Healthcare"
+      }
+    },
+    "TNDM": {
+      "ticker": "TNDM",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 70,
+      "reason": "Debt/market-cap 64.7% exceeds the configured 30% screen; full Sharia review required",
+      "checked_at": "2026-09-28T23:00:34.796645+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 1142482304.0,
+        "total_debt": 739252992.0,
+        "debt_to_market_cap": 0.6470585928655224,
+        "industry": "Medical Devices",
+        "sector": "Healthcare"
+      }
+    },
+    "TFX": {
+      "ticker": "TFX",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 70,
+      "reason": "Debt/market-cap 54.4% exceeds the configured 30% screen; full Sharia review required",
+      "checked_at": "2026-09-28T23:00:35.146140+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 5397395456.0,
+        "total_debt": 2936580096.0,
+        "debt_to_market_cap": 0.5440735480546564,
+        "industry": "Medical Instruments & Supplies",
+        "sector": "Healthcare"
+      }
+    },
+    "XERS": {
+      "ticker": "XERS",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-28T23:01:26.075484+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 1792208512.0,
+        "total_debt": 289441984.0,
+        "debt_to_market_cap": 0.16150017258706112,
+        "industry": "Drug Manufacturers - Specialty & Generic",
+        "sector": "Healthcare"
       }
     }
   }
