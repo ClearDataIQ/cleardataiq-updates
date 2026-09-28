@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-28T22:59:32.835712+00:00",
+  "updated_at": "2026-09-28T23:00:28.564157+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -4949,6 +4949,82 @@
         "debt_to_market_cap": 1.0481103714600142,
         "industry": "Apparel Retail",
         "sector": "Consumer Cyclical"
+      }
+    },
+    "TSLS": {
+      "ticker": "TSLS",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-28T23:00:26.021699+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
+    },
+    "SNK": {
+      "ticker": "SNK",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-28T23:00:26.924662+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
+    },
+    "SSPC": {
+      "ticker": "SSPC",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-28T23:00:27.404736+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
+    },
+    "ULH": {
+      "ticker": "ULH",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 70,
+      "reason": "Debt/market-cap 182.8% exceeds the configured 30% screen; full Sharia review required",
+      "checked_at": "2026-09-28T23:00:27.885232+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 458799776.0,
+        "total_debt": 838521984.0,
+        "debt_to_market_cap": 1.827642531368629,
+        "industry": "Trucking",
+        "sector": "Industrials"
       }
     }
   }
