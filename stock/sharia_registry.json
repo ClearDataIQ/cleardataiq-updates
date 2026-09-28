@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-28T22:59:29.109480+00:00",
+  "updated_at": "2026-09-28T22:59:32.835712+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -4873,6 +4873,82 @@
         "debt_to_market_cap": 0.30021047003626194,
         "industry": "Health Information Services",
         "sector": "Healthcare"
+      }
+    },
+    "SUPN": {
+      "ticker": "SUPN",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-28T22:59:29.132234+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 2596796672.0,
+        "total_debt": 40170000.0,
+        "debt_to_market_cap": 0.015469058641800355,
+        "industry": "Drug Manufacturers - Specialty & Generic",
+        "sector": "Healthcare"
+      }
+    },
+    "VSXY": {
+      "ticker": "VSXY",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 70,
+      "reason": "Debt/market-cap 41.2% exceeds the configured 30% screen; full Sharia review required",
+      "checked_at": "2026-09-28T22:59:29.939029+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 7042366976.0,
+        "total_debt": 2899000064.0,
+        "debt_to_market_cap": 0.41165137714061667,
+        "industry": "Apparel Retail",
+        "sector": "Consumer Cyclical"
+      }
+    },
+    "SUJA": {
+      "ticker": "SUJA",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 70,
+      "reason": "Debt/market-cap 55.5% exceeds the configured 30% screen; full Sharia review required",
+      "checked_at": "2026-09-28T22:59:31.095885+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 345307584.0,
+        "total_debt": 191584992.0,
+        "debt_to_market_cap": 0.5548241651130373,
+        "industry": "Beverages - Non-Alcoholic",
+        "sector": "Consumer Defensive"
+      }
+    },
+    "ZUMZ": {
+      "ticker": "ZUMZ",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 70,
+      "reason": "Debt/market-cap 104.8% exceeds the configured 30% screen; full Sharia review required",
+      "checked_at": "2026-09-28T22:59:32.099435+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 216774880.0,
+        "total_debt": 227204000.0,
+        "debt_to_market_cap": 1.0481103714600142,
+        "industry": "Apparel Retail",
+        "sector": "Consumer Cyclical"
       }
     }
   }
