@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-28T23:03:28.329356+00:00",
+  "updated_at": "2026-09-28T23:04:28.525606+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -4990,11 +4990,23 @@
       }
     },
     "SSPC": {
+      "ticker": "SSPC",
       "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 50,
       "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-28T23:00:27.404736+00:00"
+      "checked_at": "2026-09-28T23:03:33.039859+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
     },
     "ULH": {
       "ticker": "ULH",
@@ -5265,6 +5277,25 @@
         "market_cap": 227379216.0,
         "total_debt": 770000.0,
         "debt_to_market_cap": 0.003386413294696205,
+        "industry": "Biotechnology",
+        "sector": "Healthcare"
+      }
+    },
+    "XNCR": {
+      "ticker": "XNCR",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-28T23:04:26.035371+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 1903447040.0,
+        "total_debt": 170107008.0,
+        "debt_to_market_cap": 0.08936787019826935,
         "industry": "Biotechnology",
         "sector": "Healthcare"
       }
