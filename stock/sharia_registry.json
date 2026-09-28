@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-28T23:02:28.197184+00:00",
+  "updated_at": "2026-09-28T23:03:28.329356+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -5229,6 +5229,44 @@
         "debt_to_market_cap": null,
         "industry": null,
         "sector": null
+      }
+    },
+    "TSLZ": {
+      "ticker": "TSLZ",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-28T23:03:26.110482+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
+    },
+    "SLGL": {
+      "ticker": "SLGL",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-28T23:03:27.083361+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 227379216.0,
+        "total_debt": 770000.0,
+        "debt_to_market_cap": 0.003386413294696205,
+        "industry": "Biotechnology",
+        "sector": "Healthcare"
       }
     }
   }
