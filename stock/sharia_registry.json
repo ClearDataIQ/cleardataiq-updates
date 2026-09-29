@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-28T23:04:28.525606+00:00",
+  "updated_at": "2026-09-29T12:28:30.918596+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -5298,6 +5298,44 @@
         "debt_to_market_cap": 0.08936787019826935,
         "industry": "Biotechnology",
         "sector": "Healthcare"
+      }
+    },
+    "TTRX": {
+      "ticker": "TTRX",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-28T23:04:33.033775+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 395994848.0,
+        "total_debt": 6121036.0,
+        "debt_to_market_cap": 0.015457362718011926,
+        "industry": "Biotechnology",
+        "sector": "Healthcare"
+      }
+    },
+    "SSTI": {
+      "ticker": "SSTI",
+      "status": "COMPLIANT",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 90,
+      "reason": "Permissible business screen passed; debt/market-cap 7.7% <= 30%",
+      "checked_at": "2026-09-29T12:28:25.998026+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 72005928.0,
+        "total_debt": 5511000.0,
+        "debt_to_market_cap": 0.07653536525492735,
+        "industry": "Software - Application",
+        "sector": "Technology"
       }
     }
   }
