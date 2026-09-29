@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-29T12:28:30.918596+00:00",
+  "updated_at": "2026-09-29T15:39:30.545635+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -3665,16 +3665,16 @@
       "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 70,
-      "reason": "Debt/market-cap 1297.4% exceeds the configured 30% screen; full Sharia review required",
-      "checked_at": "2026-09-28T14:12:25.244305+00:00",
+      "reason": "Debt/market-cap 1521.1% exceeds the configured 30% screen; full Sharia review required",
+      "checked_at": "2026-09-29T15:39:27.466332+00:00",
       "rules": {
         "debt_to_market_cap_max": 0.3,
         "prohibited_income_max": 0.05
       },
       "metrics": {
-        "market_cap": 1778371.0,
+        "market_cap": 1516789.0,
         "total_debt": 23072604.0,
-        "debt_to_market_cap": 12.974010484876327,
+        "debt_to_market_cap": 15.211478986200454,
         "industry": "Software - Infrastructure",
         "sector": "Technology"
       }
@@ -5336,6 +5336,44 @@
         "debt_to_market_cap": 0.07653536525492735,
         "industry": "Software - Application",
         "sector": "Technology"
+      }
+    },
+    "CCL": {
+      "ticker": "CCL",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 70,
+      "reason": "Debt/market-cap 77.3% exceeds the configured 30% screen; full Sharia review required",
+      "checked_at": "2026-09-29T13:39:25.996249+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 33857726464.0,
+        "total_debt": 26169999360.0,
+        "debt_to_market_cap": 0.7729402441663012,
+        "industry": "Travel Services",
+        "sector": "Consumer Cyclical"
+      }
+    },
+    "IOVA": {
+      "ticker": "IOVA",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-29T13:40:25.994433+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 6083406336.0,
+        "total_debt": 46003000.0,
+        "debt_to_market_cap": 0.007562046238431639,
+        "industry": "Biotechnology",
+        "sector": "Healthcare"
       }
     }
   }
