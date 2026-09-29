@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-29T15:39:30.545635+00:00",
+  "updated_at": "2026-09-29T15:39:38.117393+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -5374,6 +5374,44 @@
         "debt_to_market_cap": 0.007562046238431639,
         "industry": "Biotechnology",
         "sector": "Healthcare"
+      }
+    },
+    "CBRX": {
+      "ticker": "CBRX",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-29T15:39:34.697440+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
+    },
+    "ITG": {
+      "ticker": "ITG",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 70,
+      "reason": "Debt/market-cap 84.0% exceeds the configured 30% screen; full Sharia review required",
+      "checked_at": "2026-09-29T15:39:36.102219+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 1042502784.0,
+        "total_debt": 875278976.0,
+        "debt_to_market_cap": 0.8395938979094372,
+        "industry": "Engineering & Construction",
+        "sector": "Industrials"
       }
     }
   }
