@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-09-29T15:39:38.117393+00:00",
+  "updated_at": "2026-10-13T01:34:57.558439+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -3377,7 +3377,7 @@
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 50,
       "reason": "Business or financial data is not strong enough for automatic approval",
-      "checked_at": "2026-09-28T08:54:48.368116+00:00",
+      "checked_at": "2026-09-29T15:39:39.251956+00:00",
       "rules": {
         "debt_to_market_cap_max": 0.3,
         "prohibited_income_max": 0.05
@@ -5412,6 +5412,63 @@
         "debt_to_market_cap": 0.8395938979094372,
         "industry": "Engineering & Construction",
         "sector": "Industrials"
+      }
+    },
+    "XRPN": {
+      "ticker": "XRPN",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-09-29T15:39:47.230158+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 397244256.0,
+        "total_debt": null,
+        "debt_to_market_cap": 0.0,
+        "industry": "Shell Companies",
+        "sector": "Financial Services"
+      }
+    },
+    "AINT": {
+      "ticker": "AINT",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-10-13T01:34:52.914963+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
+      }
+    },
+    "NRR": {
+      "ticker": "NRR",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-10-13T01:34:55.986902+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": null,
+        "total_debt": null,
+        "debt_to_market_cap": null,
+        "industry": null,
+        "sector": null
       }
     }
   }
