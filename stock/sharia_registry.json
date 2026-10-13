@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-10-13T01:35:20.149467+00:00",
+  "updated_at": "2026-10-13T01:36:20.305897+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -5488,6 +5488,44 @@
         "debt_to_market_cap": 0.3502641682450042,
         "industry": "Software - Application",
         "sector": "Technology"
+      }
+    },
+    "RTSN": {
+      "ticker": "RTSN",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 50,
+      "reason": "Business or financial data is not strong enough for automatic approval",
+      "checked_at": "2026-10-13T01:35:24.869432+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 89219696.0,
+        "total_debt": null,
+        "debt_to_market_cap": 0.0,
+        "industry": "Biotechnology",
+        "sector": "Healthcare"
+      }
+    },
+    "FIGS": {
+      "ticker": "FIGS",
+      "status": "COMPLIANT",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 90,
+      "reason": "Permissible business screen passed; debt/market-cap 2.0% <= 30%",
+      "checked_at": "2026-10-13T01:36:17.913690+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 2947327744.0,
+        "total_debt": 57668000.0,
+        "debt_to_market_cap": 0.019566198607330724,
+        "industry": "Apparel Manufacturing",
+        "sector": "Consumer Cyclical"
       }
     }
   }
