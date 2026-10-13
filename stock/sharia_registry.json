@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-10-13T01:36:20.305897+00:00",
+  "updated_at": "2026-10-13T01:37:20.168229+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -5526,6 +5526,25 @@
         "debt_to_market_cap": 0.019566198607330724,
         "industry": "Apparel Manufacturing",
         "sector": "Consumer Cyclical"
+      }
+    },
+    "PMI": {
+      "ticker": "PMI",
+      "status": "COMPLIANT",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 90,
+      "reason": "Permissible business screen passed; debt/market-cap 6.0% <= 30%",
+      "checked_at": "2026-10-13T01:37:17.876748+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 26520110.0,
+        "total_debt": 1578000.0,
+        "debt_to_market_cap": 0.05950201564020662,
+        "industry": "Medical Devices",
+        "sector": "Healthcare"
       }
     }
   }
