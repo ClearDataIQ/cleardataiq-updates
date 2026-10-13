@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-10-13T01:34:57.558439+00:00",
+  "updated_at": "2026-10-13T01:35:20.149467+00:00",
   "entries": {
     "FIRY": {
       "status": "NON_COMPLIANT",
@@ -3665,16 +3665,16 @@
       "status": "UNKNOWN",
       "source": "AUTO_FREE_SCREEN_V1",
       "confidence": 70,
-      "reason": "Debt/market-cap 1521.1% exceeds the configured 30% screen; full Sharia review required",
-      "checked_at": "2026-09-29T15:39:27.466332+00:00",
+      "reason": "Debt/market-cap 2098.7% exceeds the configured 30% screen; full Sharia review required",
+      "checked_at": "2026-10-13T01:35:17.876486+00:00",
       "rules": {
         "debt_to_market_cap_max": 0.3,
         "prohibited_income_max": 0.05
       },
       "metrics": {
-        "market_cap": 1516789.0,
+        "market_cap": 1099357.0,
         "total_debt": 23072604.0,
-        "debt_to_market_cap": 15.211478986200454,
+        "debt_to_market_cap": 20.987362612872797,
         "industry": "Software - Infrastructure",
         "sector": "Technology"
       }
@@ -5469,6 +5469,25 @@
         "debt_to_market_cap": null,
         "industry": null,
         "sector": null
+      }
+    },
+    "FICO": {
+      "ticker": "FICO",
+      "status": "UNKNOWN",
+      "source": "AUTO_FREE_SCREEN_V1",
+      "confidence": 70,
+      "reason": "Debt/market-cap 35.0% exceeds the configured 30% screen; full Sharia review required",
+      "checked_at": "2026-10-13T01:35:02.910808+00:00",
+      "rules": {
+        "debt_to_market_cap_max": 0.3,
+        "prohibited_income_max": 0.05
+      },
+      "metrics": {
+        "market_cap": 15982251008.0,
+        "total_debt": 5598009856.0,
+        "debt_to_market_cap": 0.3502641682450042,
+        "industry": "Software - Application",
+        "sector": "Technology"
       }
     }
   }
